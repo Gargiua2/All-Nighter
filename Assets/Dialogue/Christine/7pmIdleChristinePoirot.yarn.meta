@@ -1,0 +1,56 @@
+fileFormatVersion: 2
+guid: 93db487aaf26acf4cbb3a6fe2f9a8832
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - 7pmIdleChristinePoirot-start-0
+  - 7pmIdleChristinePoirot-start-1
+  - 7pmIdleChristinePoirot-start-2
+  - 7pmIdleChristinePoirot-start-3
+  - 7pmIdleChristinePoirot-start-4
+  - 7pmIdleChristinePoirot-start-5
+  - 7pmIdleChristinePoirot-start-6
+  - 7pmIdleChristinePoirot-IdleChristinePoirot1-7
+  - 7pmIdleChristinePoirot-IdleChristinePoirot1-8
+  - 7pmIdleChristinePoirot-IdleChristinePoirot1-9
+  - 7pmIdleChristinePoirot-IdleChristinePoirot1-10
+  - 7pmIdleChristinePoirot-IdleChristinePoirot1-11
+  - 7pmIdleChristinePoirot-IdleChristinePoirot1-12
+  - 7pmIdleChristinePoirot-IdleChristinePoirot1-13
+  - 7pmIdleChristinePoirot-IdleChristinePoirot1-14
+  - 7pmIdleChristinePoirot-IdleChristinePoirot1-15
+  - 7pmIdleChristinePoirot-IdleChristinePoirot2-16
+  - 7pmIdleChristinePoirot-IdleChristinePoirot2-17
+  - 7pmIdleChristinePoirot-IdleChristinePoirot2-18
+  - 7pmIdleChristinePoirot-IdleChristinePoirot2-19
+  - 7pmIdleChristinePoirot-IdleChristinePoirot2-20
+  - 7pmIdleChristinePoirot-IdleChristinePoirot2-21
+  - 7pmIdleChristinePoirot-IdleChristinePoirot2-22
+  - 7pmIdleChristinePoirot-IdleChristinePoirot2-23
+  - 7pmIdleChristinePoirot-IdleChristinePoirotAnyoneSuspicious-24
+  - 7pmIdleChristinePoirot-IdleChristinePoirotAnyoneSuspicious-25
+  - 7pmIdleChristinePoirot-IdleChristinePoirotAnyoneSuspicious-26
+  - 7pmIdleChristinePoirot-IdleChristinePoirotAnyoneSuspicious-27
+  - 7pmIdleChristinePoirot-IdleChristinePoirotLeave-28
+  - 7pmIdleChristinePoirot-IdleChristinePoirotAnyoneSuspicious1-29
+  - 7pmIdleChristinePoirot-IdleChristinePoirotAnyoneSuspicious1-30
+  - 7pmIdleChristinePoirot-IdleChristinePoirotAnyoneSuspicious1-31
+  - 7pmIdleChristinePoirot-IdleChristinePoirotAnyoneSuspicious1-32
+  - 7pmIdleChristinePoirot-IdleChristinePoirotAnyoneSuspicious2-33
+  - 7pmIdleChristinePoirot-IdleChristinePoirotAnyoneSuspicious2-34
+  - 7pmIdleChristinePoirot-IdleChristinePoirotAnyoneSuspicious1_1-35
+  - 7pmIdleChristinePoirot-IdleChristinePoirotAnyoneSuspicious1_1-36
+  - 7pmIdleChristinePoirot-IdleChristinePoirotAnyoneSuspicious1_2-37
+  - 7pmIdleChristinePoirot-IdleChristinePoirotAnyoneSuspicious1_2-38
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 93db487aaf26acf4cbb3a6fe2f9a8832, type: 3}
+  localizations: []

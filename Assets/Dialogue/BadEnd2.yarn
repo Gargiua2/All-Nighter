@@ -1,0 +1,27 @@
+title: BadEnd2
+tags: 
+colorID: 0
+position: 1178,554
+---
+Masked Thief: Hands in the air! Don’t move unless I tell you to!
+Christine Poirot: Aaaaaah!
+[[This again?|BadEnd202]]
+[[Am I dreaming?|BadEnd202]]
+===
+title: BadEnd202
+tags: 
+colorID: 0
+position: 1483,442
+---
+<<bellsSFX DialogueRunner>>
+Masked Thief: Don’t play any games with me, Inspector. The Agency won’t be getting in our way tonight!
+[[There’s that sound again.|BadEnd203]]
+===
+title: BadEnd203
+tags: 
+colorID: 0
+position: 1603,222
+---
+Masked Thief: Don’t try and play dumb. Stay nice and calm and…
+Masked Thief: …
+===

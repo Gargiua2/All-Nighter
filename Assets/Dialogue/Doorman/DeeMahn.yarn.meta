@@ -1,0 +1,57 @@
+fileFormatVersion: 2
+guid: 6dfd4c5ef34e18546bea10360378e78c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - DeeMahn-DeeMahnStart-0
+  - DeeMahn-DeeMahnStart-1
+  - DeeMahn-DeeMahnStart-2
+  - DeeMahn-DeeMahnStart-3
+  - DeeMahn-DeeMahnStart-4
+  - DeeMahn-DeeMahnStart-5
+  - DeeMahn-DeeMahnStart-6
+  - DeeMahn-DeeMahnLeave-7
+  - DeeMahn-DeeMahnLeave-8
+  - DeeMahn-DeeMahnLeave-9
+  - DeeMahn-DeeMahn1-10
+  - DeeMahn-DeeMahn1-11
+  - DeeMahn-DeeMahn1-12
+  - DeeMahn-DeeMahn1-13
+  - DeeMahn-DeeMahn1-14
+  - DeeMahn-DeeMahn1-15
+  - DeeMahn-DeeMahn1-16
+  - DeeMahn-DeeMahn2-17
+  - DeeMahn-DeeMahn2-18
+  - DeeMahn-DeeMahn2-19
+  - DeeMahn-DeeMahn2-20
+  - DeeMahn-DeeMahn2-21
+  - DeeMahn-DeeMahn2-22
+  - DeeMahn-DeeMahn2-23
+  - DeeMahn-DeeMahn2-24
+  - DeeMahn-DeeMahn3-25
+  - DeeMahn-DeeMahn3-26
+  - DeeMahn-DeeMahn3-27
+  - DeeMahn-DeeMahn3-28
+  - DeeMahn-DeeMahn3-29
+  - DeeMahn-DeeMahn3-30
+  - DeeMahn-DeeMahn3-31
+  - DeeMahn-DeeMahn3-32
+  - DeeMahn-DeeMahn3-33
+  - DeeMahn-DeeMahn4-34
+  - DeeMahn-DeeMahn4-35
+  - DeeMahn-DeeMahn4-36
+  - DeeMahn-DeeMahn4-37
+  - DeeMahn-DeeMahn4-38
+  - DeeMahn-DeeMahn4-39
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 6dfd4c5ef34e18546bea10360378e78c, type: 3}
+  localizations: []

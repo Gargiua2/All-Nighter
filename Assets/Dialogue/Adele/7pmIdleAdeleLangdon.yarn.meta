@@ -1,0 +1,54 @@
+fileFormatVersion: 2
+guid: d9c4f5e98a58dc7448673ed1d614f267
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - 7pmIdleAdeleLangdon-start-0
+  - 7pmIdleAdeleLangdon-start-1
+  - 7pmIdleAdeleLangdon-start-2
+  - 7pmIdleAdeleLangdon-start-3
+  - 7pmIdleAdeleLangdon-start-4
+  - 7pmIdleAdeleLangdon-start-5
+  - 7pmIdleAdeleLangdon-start-6
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonPainting-7
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonPainting-8
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonPainting-9
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonPainting-10
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonChat-11
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonChat-12
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonChat-13
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonChat-14
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonChat-15
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonChat-16
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonChat-17
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonChat-18
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonAnyoneSuspicious-19
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonAnyoneSuspicious-20
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonAnyoneSuspicious-21
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonLeave-22
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonAnyoneSuspicious1-23
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonAnyoneSuspicious1-24
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonAnyoneSuspicious1-25
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonAnyoneSuspicious1-26
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonAnyoneSuspicious1_1-27
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonAnyoneSuspicious1_1-28
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonAnyoneSuspicious1_1-29
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonAnyoneSuspicious1_1-30
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonAnyoneSuspicious1_2-31
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonAnyoneSuspicious1_2-32
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonAnyoneSuspicious1_2-33
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonAnyoneSuspicious1_2-34
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonAnyoneSuspicious1_2-35
+  - 7pmIdleAdeleLangdon-IdleAdeleLangdonAnyoneSuspicious1_2-36
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: d9c4f5e98a58dc7448673ed1d614f267, type: 3}
+  localizations: []

@@ -1,0 +1,72 @@
+title: AdeleLangdon9pmStart
+tags: 
+colorID: 0
+position: 1640,-1720
+---
+Adele Langdon: Having a nice evening?
+-> Could be better.
+-> Could be worse.
+Adele Langdon: I've heard that before. Have you seen the dinosaur yet?
+-> Yes, I did.
+    Adele Langdon: Isn't it great? One of the star pieces at this museum.
+    Adele Langdon: Discovered just off the coast some ways away...
+    Adele Langdon: ...It was under archaeologists' noses for a hundred years!
+    Adele Langdon: Funny how life happens like that sometimes.
+-> No, not yet.
+    Adele Langdon: Well, I suggest you give it a look. 
+    Adele Langdon: It was discovered just off the coast, just a few minutes from here...
+    Adele Langdon: ...It was right here, under archaeologists' feet for a hundred years!
+    Adele Langdon: If it was a dog, it would've bit them.
+    Adele Langdon: Funny how life happens like that sometimes.
+-> Why are you asking me so many questions?
+    Adele Langdon: Isn't that what a party is for?
+    -> Questions?
+        Adele Langdon: Yes. Well, moreso to get to know people. But through questions, you know people.
+        -> Ok then, my turn.
+            Adele Langdon: ...
+            [[What do you do for a living?|AdeleLangdon9pm1]]
+            [[Do you know what happened?|AdeleLangdon9pm2]]
+            [[Wait, nevermind. See you later.|AdeleLangdon9pmLeave]]
+===
+title: AdeleLangdon9pmLeave
+tags: 
+colorID: 0
+position: 1880,-1480
+---
+Adele Langdon: Goodbye, then.
+===
+title: AdeleLangdon9pm1
+tags: 
+colorID: 0
+position: 1400,-1480
+---
+Adele Langdon: I'm the author of many articles and books about art curation.
+Adele Langdon: I have my Doctorate in Art Curation and Studies.
+-> Ok, but what do you DO?
+Adele Langdon: ...I study art.
+Adele Langdon: And appreciate it for what it is.
+Adele Langdon: Now, if you'll excuse me, I think those are all the questions you get to ask.
+===
+title: AdeleLangdon9pm2
+tags: 
+colorID: 0
+position: 1640,-1480
+---
+Adele Langdon: I was just stepping aside from the table to take a call when the lights went out.
+Adele Langdon: I decided to investigate, but wasn't sure where to start.
+Adele Langdon: Much like yourself, I suppose.
+Adele Langdon: Do YOU know what happened?
+-> Yes, actually.
+    Adele Langdon: Well, there you go then, I suppose.
+    Adele Langdon: That just proves my point that we're all investigators here.
+    Adele Langdon: Just... looking, snooping...
+-> Yes, but it's none of your business.
+    Adele Langdon: Your hostility is... interesting.
+    Adele Langdon: But nonetheless proves my point that we're both investigators.
+    -> I thought you were an art curator?
+        Adele Langdon: And I thought you asked all your questions?
+-> No, I don't.
+    Adele Langdon: Hmmm... Perhaps you should change that.
+    Adele Langdon: I can't imagine anyone with good intentions would turn off the lights.
+    Adele Langdon: During a very extravagant gala, no less.
+===

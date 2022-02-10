@@ -1,0 +1,33 @@
+title: BadEnd4
+tags: 
+colorID: 0
+position: 1178,554
+---
+Masked Thief: Hands in the air! Don’t move unless I tell you to!
+Christine Poirot: Aaaaaah!
+[[...|BadEnd402]]
+===
+title: BadEnd402
+tags: 
+colorID: 0
+position: 1298,334
+---
+Masked Thief: Aha! I almost missed you Inspector. Don’t even think about trying anything. 
+[[...|BadEnd403]]
+===
+title: BadEnd403
+tags: 
+colorID: 0
+position: 1418,114
+---
+<<bellsSFX DialogueRunner>>
+Masked Thief: … Don’t give me such a blank look. It’s making me uncomfortable.
+[[There it is. See you again soon.|BadEnd404]]
+===
+title: BadEnd404
+tags: 
+colorID: 0
+position: 1538,-106
+---
+Masked Thief: What is that supposed to...
+===

@@ -1,0 +1,50 @@
+fileFormatVersion: 2
+guid: 245ad1e329e61ae499f19fe29a6f3796
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - FillipDahl9pm-FillipDahl9pmStart-0
+  - FillipDahl9pm-FillipDahl9pmStart-1
+  - FillipDahl9pm-FillipDahl9pmStart-2
+  - FillipDahl9pm-FillipDahl9pmStart-3
+  - FillipDahl9pm-FillipDahl9pmStart-4
+  - FillipDahl9pm-FillipDahl9pmStart-5
+  - FillipDahl9pm-FillipDahl9pmStart-6
+  - FillipDahl9pm-FillipDahl9pmStart-7
+  - FillipDahl9pm-FillipDahl9pmStart-8
+  - FillipDahl9pm-FillipDahl9pmStart-9
+  - FillipDahl9pm-FillipDahl9pmStart-10
+  - FillipDahl9pm-FillipDahl9pmStart-11
+  - FillipDahl9pm-FillipDahl9pmStart-12
+  - FillipDahl9pm-FillipDahl9pmStart-13
+  - FillipDahl9pm-FillipDahl9pmLeave-14
+  - FillipDahl9pm-FillipDahl9pm1-15
+  - FillipDahl9pm-FillipDahl9pm1-16
+  - FillipDahl9pm-FillipDahl9pm1-17
+  - FillipDahl9pm-FillipDahl9pm1-18
+  - FillipDahl9pm-FillipDahl9pm1-19
+  - FillipDahl9pm-FillipDahl9pm1-20
+  - FillipDahl9pm-FillipDahl9pm1-21
+  - FillipDahl9pm-FillipDahl9pm2-22
+  - FillipDahl9pm-FillipDahl9pm2-23
+  - FillipDahl9pm-FillipDahl9pm2-24
+  - FillipDahl9pm-FillipDahl9pm2-25
+  - FillipDahl9pm-FillipDahl9pm2-26
+  - FillipDahl9pm-FillipDahl9pm2-27
+  - FillipDahl9pm-FillipDahl9pm2-28
+  - FillipDahl9pm-FillipDahl9pm2-29
+  - FillipDahl9pm-FillipDahl9pm2-30
+  - FillipDahl9pm-FillipDahl9pm2-31
+  - FillipDahl9pm-FillipDahl9pm2-32
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 245ad1e329e61ae499f19fe29a6f3796, type: 3}
+  localizations: []

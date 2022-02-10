@@ -1,0 +1,50 @@
+fileFormatVersion: 2
+guid: 505ab94039bc64546897b97db7f57b3e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - 7pmIdleRianMarple-start-0
+  - 7pmIdleRianMarple-start-1
+  - 7pmIdleRianMarple-start-2
+  - 7pmIdleRianMarple-start-3
+  - 7pmIdleRianMarple-start-4
+  - 7pmIdleRianMarple-IdleRianMarple1-5
+  - 7pmIdleRianMarple-IdleRianMarple1-6
+  - 7pmIdleRianMarple-IdleRianMarple1-7
+  - 7pmIdleRianMarple-IdleRianMarple1-8
+  - 7pmIdleRianMarple-IdleRianMarple1-9
+  - 7pmIdleRianMarple-IdleRianMarple1-10
+  - 7pmIdleRianMarple-IdleRianMarple1-11
+  - 7pmIdleRianMarple-IdleRianMarple2-12
+  - 7pmIdleRianMarple-IdleRianMarple2-13
+  - 7pmIdleRianMarple-IdleRianMarple2-14
+  - 7pmIdleRianMarple-IdleRianMarple2-15
+  - 7pmIdleRianMarple-IdleRianMarple2-16
+  - 7pmIdleRianMarple-IdleRianMarple2-17
+  - 7pmIdleRianMarple-IdleRianMarple2-18
+  - 7pmIdleRianMarple-IdleRianMarple3-19
+  - 7pmIdleRianMarple-IdleRianMarple3-20
+  - 7pmIdleRianMarple-IdleRianMarple3-21
+  - 7pmIdleRianMarple-IdleRianMarpleAnyoneSuspicious-22
+  - 7pmIdleRianMarple-IdleRianMarpleAnyoneSuspicious-23
+  - 7pmIdleRianMarple-IdleRianMarpleAnyoneSuspicious-24
+  - 7pmIdleRianMarple-IdleRianMarpleAnyoneSuspicious-25
+  - 7pmIdleRianMarple-IdleRianMarpleAnyoneSuspicious-26
+  - 7pmIdleRianMarple-IdleRianMarpleAnyoneSuspicious-27
+  - 7pmIdleRianMarple-IdleRianMarpleAnyoneSuspicious-28
+  - 7pmIdleRianMarple-IdleRianMarpleAnyoneSuspicious-29
+  - 7pmIdleRianMarple-IdleRianMarpleAnyoneSuspicious-30
+  - 7pmIdleRianMarple-IdleRianMarpleAnyoneSuspicious-31
+  - 7pmIdleRianMarple-IdleRianMarpleLeave-32
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 505ab94039bc64546897b97db7f57b3e, type: 3}
+  localizations: []

@@ -1,0 +1,24 @@
+title: PaulMoss11pmStart
+tags: 
+colorID: 0
+position: 1640,-1720
+---
+Paul Moss: You know, I've seen that kind of lockbox before...
+Paul Moss: On pirate ships and things. Mostly for... nefarious reasons.
+-> What do you mean?
+    Paul Moss: Used as a dead drop location. Locked too, so no one else can get to it.
+    Paul Moss: And in a public space so someone could have plausible deniablity of accessing it.
+    -> Do you know the code?
+    Paul Moss: I do know that the default code is four-five-six-seven.
+    Paul Moss: And amateur sneaks will just use a different combination of those numbers.
+    Paul Moss: I haven't tried anything on that box because I'm sure someone else has their eye on it, too.
+    Paul Moss: Not sure who, but I wouldn't want to make any enemies.
+    Paul Moss: You didn't hear any of this from me.
+-> Do you know the code?
+<<addEvidence DialogueRunner Pirates Secrets : Paul spoke with you about the lockbox in the left hall, noting that this common model usually has a code that is some permutation of 4-5-6-7. : false>>
+Paul Moss: I do know that the default code is four-five-six-seven.
+Paul Moss: And amateur sneaks will just use a different combination of those numbers.
+Paul Moss: I haven't tried anything on that box because I'm sure someone else has their eye on it, too.
+Paul Moss: Not sure who, but I wouldn't want to make any enemies.
+Paul Moss: You didn't hear any of this from me.
+===

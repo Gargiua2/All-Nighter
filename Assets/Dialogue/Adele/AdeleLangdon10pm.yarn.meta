@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 0bb0df25a2e00874a921399bbc52b245
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - AdeleLangdon10pm-AdeleLangdon10pmStart-0
+  - AdeleLangdon10pm-AdeleLangdon10pmStart-1
+  - AdeleLangdon10pm-AdeleLangdon10pmStart-2
+  - AdeleLangdon10pm-AdeleLangdon10pmStart-3
+  - AdeleLangdon10pm-AdeleLangdon10pmStart-4
+  - AdeleLangdon10pm-AdeleLangdon10pmStart-5
+  - AdeleLangdon10pm-AdeleLangdon10pmStart-6
+  - AdeleLangdon10pm-AdeleLangdon10pmStart-7
+  - AdeleLangdon10pm-AdeleLangdon10pmStart-8
+  - AdeleLangdon10pm-AdeleLangdon10pmStart-9
+  - AdeleLangdon10pm-AdeleLangdon10pmStart-10
+  - AdeleLangdon10pm-AdeleLangdon10pmStart-11
+  - AdeleLangdon10pm-AdeleLangdon10pmStart-12
+  - AdeleLangdon10pm-AdeleLangdon10pmStart-13
+  - AdeleLangdon10pm-AdeleLangdon10pmStart-14
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 0bb0df25a2e00874a921399bbc52b245, type: 3}
+  localizations: []

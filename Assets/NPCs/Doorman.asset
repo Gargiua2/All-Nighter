@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75e3b258e195eb7498236bca41965c62, type: 3}
+  m_Name: Doorman
+  m_EditorClassIdentifier: 
+  characterName: Dee Mahn
+  color: {r: 0.13333334, g: 0.3529412, b: 0.47058827, a: 1}
+  overworldSprite: {fileID: 21300000, guid: eb6a0c9a077d8a849b89aeb0857b9394, type: 3}
+  dialoguePortrait: {fileID: 21300000, guid: 474ad7aae5b57624cb7d9c3fa1e1a28b, type: 3}
+  height: 1.5
+  locationSchedule:
+  - time:
+      clockTime: {x: 0, y: 0, z: 0}
+    room: 1
+    location: 6
+  dialogueSchedule:
+  - time:
+      clockTime: {x: 0, y: 0, z: 0}
+    dialogueScript: {fileID: 2480198943629176163, guid: 6dfd4c5ef34e18546bea10360378e78c, type: 3}

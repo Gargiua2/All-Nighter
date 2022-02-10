@@ -1,0 +1,95 @@
+title: IdleAdeleLangdon7PMStart
+tags: 
+colorID: 0
+position: 400,-600
+---
+Adele Langdon: It was called something like... oh, something with 'explosion', or something, with this beautiful blue box. Truly a masterpiece.
+Christine Poirot: Oh, you simply must have us over some time to see that painting, mustn't she, Theo?
+Theodore Calvino: ...Theodore.
+
+[[What painting are you talking about?|IdleAdeleLangdonPainting]]
+[[Adele, may I speak to you?|IdleAdeleLangdonChat]]
+[[Have any of you noticed anything strange?|IdleAdeleLangdonAnyoneSuspicious]]
+[[Sorry to interrupt, thanks for your time!|IdleAdeleLangdonLeave]]
+===
+title: IdleAdeleLangdonPainting
+tags: 
+colorID: 0
+position: 240,-320
+---
+Adele Langdon: A Van Gogh, of course. I forget what it was called, though... Perhaps it'll come to me. 
+<<if visited("IdleAdeleLangdonChat") is false>>
+    [[Can you tell me about yourself?|IdleAdeleLangdon2]]
+<<endif>>
+[[Have you noticed anyone acting out of place?|IdleAdeleLangdonAnyoneSuspicious]]
+[[Oh okay. I'll be off then.|IdleAdeleLangdonLeave]]
+===
+title: IdleAdeleLangdonChat
+tags: 
+colorID: 0
+position: 600,-320
+---
+Adele Langdon: Yes, yes. What is it?
+-> Who are you?
+    Adele Langdon: I'm Dr. Langdon. I did my dissertation on 'The Art of Art: Why Art is Art, And What Arn't'. If you've done anything in the art studies world, you've probably read something of mine, or saw my name in the footnotes. Pleasure to meet you.
+-> How did you get invited?
+    Adele Langdon: Well, I am probably one of the only people you could call a 'big name' in the art-curatorial world. I practically wrote the book on curating art-- oh wait, I did! It's called 'Art Thou Good?: Curating Art for the Current Century'. Available everywhere now.
+Adele Langdon: Is that all you wanted to ask?
+[[No, one more question: have you seen anyone suspicious around?|IdleAdeleLangdonAnyoneSuspicious]]
+[[Yeah, thanks.|IdleAdeleLangdonLeave]]
+===
+title: IdleAdeleLangdonAnyoneSuspicious
+tags: 
+colorID: 0
+position: 440,160
+---
+<<addEvidence DialogueRunner The Loner : When asked about their fellow partygoers, several individuals pointed you towards Rian, who seemed to be keeping his distance from the group. : false>>
+Adele Langdon: Hmmm... I did see some people head into the hallway on the right over there, but not sure who they were. And there's someone on the balcony looking... broody.
+[[What about the people at your table?|IdleAdeleLangdonAnyoneSuspicious1]]
+[[All right, thanks for your time.|IdleAdeleLangdonLeave]]
+===
+title: IdleAdeleLangdonLeave
+tags: 
+colorID: 0
+position: 160,160
+---
+Adele Langdon: You have a good night.
+===
+title: IdleAdeleLangdonAnyoneSuspicious1
+tags: 
+colorID: 0
+position: 320,440
+---
+Adele Langdon: I'm joined by the lovely Theodore Calvino and Christine Poirot. They've both been wonderful tablemates so far. 
+[[What do you know about Theodore?|IdleAdeleLangdonAnyoneSuspicious1_1]]
+[[What do you know about Christine?|IdleAdeleLangdonAnyoneSuspicious1_2]]
+[[Nevermind, thanks for your time.|IdleAdeleLangdonLeave]]
+===
+title: IdleAdeleLangdonAnyoneSuspicious1_1
+tags: 
+colorID: 0
+position: 80,680
+---
+Adele Langdon: Theodore is... the most quiet at this table, though all parties can't be filled with stars, you know. So he listens intently, seems to enjoy our stories. I don't know much else about him, though.
+<<if visited("IdleAdeleLangdonAnyoneSuspicious1_2") is false>>
+[[And what about Christine?|IdleAdeleLangdonAnyoneSuspicious1_2]]
+<<else>>
+Adele Langdon: That's about all the information I can share, darling. Hope you find whatever it is you're after.
+<<endif>>
+[[All right, thanks.|IdleAdeleLangdonLeave]]
+===
+title: IdleAdeleLangdonAnyoneSuspicious1_2
+tags: 
+colorID: 0
+position: 320,680
+---
+Adele Langdon: Christine is a really... bright-eyed star. She thinks she's going to make it big, but I say that opera's on the outs.
+Adele Langdon: I mean really, when was the last time you went to the theater to listen to that?
+Adele Langdon: Though, I suppose I'm biased. The art I enjoy is more... static. Art pieces, that is.
+<<if not visited("IdleAdeleLangdonAnyoneSuspicious1_1")>>
+[[And what about Theodore?|IdleAdeleLangdonAnyoneSuspicious1_1]]
+<<else>>
+Adele Langdon: That's about all the information I can share, darling. Hope you find whatever it is you're after.
+<<endif>>
+[[All right, thanks.|IdleAdeleLangdonLeave]]
+===

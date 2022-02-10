@@ -1,0 +1,32 @@
+title: Reset
+tags: 
+colorID: 0
+position: 1323,177
+---
+Dee Mahn: ...Ah! Nice to see you make an appearance tonight, Inspector!
+[[What…?|Reset2]]
+===
+title: Reset2
+tags: 
+colorID: 0
+position: 1443,-43
+---
+Dee Mahn: Everything alright, Mr. Detective? You look like you just saw a ghost.
+[[Do you have the time?|Reset3]]
+===
+title: Reset3
+tags: 
+colorID: 0
+position: 1563,-263
+---
+Dee Mahn: Course I do, it’s 7PM on the dot! It’s just like you to be right on time. 
+[[I… but...|Reset4]]
+===
+title: Reset4
+tags: 
+colorID: 0
+position: 1683,-483
+---
+Dee Mahn: Oh, and by the way, if you need to send a message over to the Agency, come and ask me, and I'll send a telegram for you. 
+Dee Mahn: For now though... You look like you need a drink, how about you go get something from the bar?
+===

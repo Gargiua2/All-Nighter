@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 561faae85b6e1af4aab5f2f3d7e05042
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - EvalynHoscut8pm-EvalynHoscut8pmStart-0
+  - EvalynHoscut8pm-EvalynHoscut8pmStart-1
+  - EvalynHoscut8pm-EvalynHoscut8pmStart-2
+  - EvalynHoscut8pm-EvalynHoscut8pmStart-3
+  - EvalynHoscut8pm-EvalynHoscut8pmStart-4
+  - EvalynHoscut8pm-EvalynHoscut8pmStart-5
+  - EvalynHoscut8pm-EvalynHoscut8pmStart-6
+  - EvalynHoscut8pm-EvalynHoscut8pmStart-7
+  - EvalynHoscut8pm-EvalynHoscut8pmStart-8
+  - EvalynHoscut8pm-EvalynHoscut8pmStart-9
+  - EvalynHoscut8pm-EvalynHoscut8pmStart-10
+  - EvalynHoscut8pm-EvalynHoscut8pmStart-11
+  - EvalynHoscut8pm-EvalynHoscut8pmStart-12
+  - EvalynHoscut8pm-EvalynHoscut8pmStart-13
+  - EvalynHoscut8pm-EvalynHoscut8pmStart-14
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 561faae85b6e1af4aab5f2f3d7e05042, type: 3}
+  localizations: []

@@ -1,0 +1,79 @@
+title: IdleJeremyWoodWard7PM
+tags: 
+colorID: 0
+position: 330,-558
+---
+Jeremy Woodward: A fine night, isn't it? What's a dapper party-goer like you doing at a party like this, if I may ask?
+[[Here for a good time not a long time.|IdleJeremyWoodWard1]]
+[[I could ask you the same thing.|IdleJeremyWoodWard2]]
+[[Y'know, I'm not really sure.|IdleJeremyWoodWard3]]
+[[Investigating.|IdleJeremyWoodWard4]]
+===
+title: IdleJeremyWoodWard1
+tags: 
+colorID: 0
+position: 109,-217
+---
+Jeremy Woodward: You're preaching to the choir here! I'm just pleased as punch to be here. I mean, look at these beautiful paintings!
+->True masterpieces.
+->I've seen better.
+Jeremy Woodward: Yes, well, I do love these pieces. But ooohhh wheee, that dino in the main room! You should check it out!
+[[Will do, thanks.|IdleJeremyWoodWardLeave]]
+[[Listen, what do you know about anyone... suspicious?|IdleJeremyWoodWardAnyoneSuspicious]]
+===
+title: IdleJeremyWoodWard2
+tags: 
+colorID: 0
+position: 329,-221
+---
+Jeremy Woodward: Now, if I didn't know better, I'd think you'd think that I was pryin'! I mean no harm, just wanted to get to know my fellow party-goer. I'm just looking at all the beautiful pieces this museum has to offer.
+-> They sure are nice!
+-> They sure are... nice.
+Jeremy Woodward: I completely agree! And if you think these ones are great, wait till you see the dino in the main room!
+[[I'll go check it out now, thanks.|IdleJeremyWoodWardLeave]]
+[[Sure, sure. But have you seen anyone suspicious around here?|IdleJeremyWoodWardAnyoneSuspicious]]
+===
+title: IdleJeremyWoodWard3
+tags: 
+colorID: 0
+position: 551,-218
+---
+Jeremy Woodward: Ah, a wayward soul. I used to be like you... all can say is: it gets better.
+-> Yeah, not like that. But thanks.
+-> Thanks, I appreciate it.
+Jeremy Woodward: No problem! Happy to help. Oh, and make sure you check out that dino in the main room!
+[[Definitely will, thanks.|IdleJeremyWoodWardLeave]]
+[[Speaking of dinos, do you know anyone who's... suspici-saurus?|IdleJeremyWoodWardAnyoneSuspicious]]
+===
+title: IdleJeremyWoodWard4
+tags: 
+colorID: 0
+position: 780,-219
+---
+Jeremy Woodward: Oooh, an investigation, and at a museum! That's simple cinematic! I hope it's nothing dangerous.
+-> I hope so too.
+-> Watch your back.
+Jeremy Woodward: Hahah, haha... ha. Well, regardless, I'm happy to spend time in the vicinity of history. Make sure to see that dinosaur in the other room!
+[[I'll be checking it out now, thanks.|IdleJeremyWoodWardLeave]]
+[[Hold up, have you seen anyone suspicious around here?|IdleJeremyWoodWardAnyoneSuspicious]]
+===
+title: IdleJeremyWoodWardAnyoneSuspicious
+tags: 
+colorID: 0
+position: 550,242
+---
+Jeremy Woodward: ...Suspicious? I don't... I don't really know? I've been too busy looking at the originals here, but I don't remember seeing anything as of late.
+-> How did you get invited?
+    Jeremy Woodward: Well I'm one of the fellows of the Museum Enthusiasts, actually the Head Fellow, but a team player all the same. As we like to say, there's no 'I' in 'ME'! So I got an invitation through that.
+-> Did you come with anyone?
+    Jeremy Woodward: No. I could've had a plus-one, but I didn't think this party was a great place to bring my kids so I hired a baby sitter. I'll bring them here next week though, gotta see that dino!
+-> Thanks anyway.
+    Jeremy Woodward: No problem!
+===
+title: IdleJeremyWoodWardLeave
+tags: 
+colorID: 0
+position: 157,255
+---
+Jeremy Woodward: No problem, I'll keep looking at these pieces for now. Have fun!
+===

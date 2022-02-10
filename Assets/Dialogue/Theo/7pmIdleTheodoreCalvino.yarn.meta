@@ -1,0 +1,55 @@
+fileFormatVersion: 2
+guid: 86070b332415a8a43a1234288d7ece6b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvino-0
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvino-1
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvino-2
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvino-3
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvino-4
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvino1-5
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvino1-6
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvino1-7
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvino1-8
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvino1-9
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvino1-10
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvino1-11
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvino1-12
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvino1-13
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvino1-14
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvinoAnyoneSuspicious-15
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvinoAnyoneSuspicious-16
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvinoAnyoneSuspicious-17
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvinoAnyoneSuspicious-18
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvinoLeave-19
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvinoAnyoneSuspicious1-20
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvinoAnyoneSuspicious1-21
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvinoAnyoneSuspicious1-22
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvinoAnyoneSuspicious1-23
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvinoAnyoneSuspicious1_1-24
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvinoAnyoneSuspicious1_1-25
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvinoAnyoneSuspicious1_1-26
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvinoAnyoneSuspicious1_1-27
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvinoAnyoneSuspicious1_1-28
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvinoAnyoneSuspicious1_2-29
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvinoAnyoneSuspicious1_2-30
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvinoAnyoneSuspicious1_2-31
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvinoAnyoneSuspicious1_2-32
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvinoAnyoneSuspicious1_2-33
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvinoAnyoneSuspicious1_2-34
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvinoAnyoneSuspicious1_2-35
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvinoAnyoneSuspicious1_2-36
+  - 7pmIdleTheodoreCalvino-IdleTheodoreCalvinoAnyoneSuspicious1_2-37
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 86070b332415a8a43a1234288d7ece6b, type: 3}
+  localizations: []

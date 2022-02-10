@@ -1,0 +1,29 @@
+title: BadEnd1
+tags: 
+colorID: 0
+position: 1179,555
+---
+Masked Thief: Hands in the air! Don’t move unless I tell you to!
+Christine Poirot: Aaaaaah!
+[[What in the world?|BadEnd102]]
+[[Are you alight!?|BadEnd102]]
+===
+title: BadEnd102
+tags: 
+colorID: 0
+position: 1165,307
+---
+<<bellsSFX DialogueRunner>>
+Masked Thief: Don’t try anything, Inspector. My people on the inside know all about you, and we’re not letting you get in our way. 
+Masked Thief: As we speak, my associate is walking away with the goods. And you didn’t suspect a thing!
+[[What is that sound?|WhatIsThatSound]]
+===
+title: WhatIsThatSound
+tags: 
+colorID: 0
+position: 1285,87
+---
+Masked Thief: Sound…?
+Masked Thief: Who do you think you’re trying to…
+Masked Thief: ....
+===

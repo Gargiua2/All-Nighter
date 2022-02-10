@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: c1859327308929048a2eca4e6451d4f0
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - JeremyWoodward9pm-JeremyWoodward9pmStart-0
+  - JeremyWoodward9pm-JeremyWoodward9pmStart-1
+  - JeremyWoodward9pm-JeremyWoodward9pmStart-2
+  - JeremyWoodward9pm-JeremyWoodward9pmStart-3
+  - JeremyWoodward9pm-JeremyWoodward9pm1-4
+  - JeremyWoodward9pm-JeremyWoodward9pm1-5
+  - JeremyWoodward9pm-JeremyWoodward9pm1-6
+  - JeremyWoodward9pm-JeremyWoodward9pm1-7
+  - JeremyWoodward9pm-JeremyWoodward9pmLeave-8
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: c1859327308929048a2eca4e6451d4f0, type: 3}
+  localizations: []

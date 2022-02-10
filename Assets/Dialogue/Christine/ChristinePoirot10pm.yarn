@@ -1,0 +1,13 @@
+title: ChristinePoirot10pmStart
+tags: 
+colorID: 0
+position: 175,-131
+---
+<<addEvidence DialogueRunner Opera Singers Tragedy : After her tablemates have left, Christine confides in you about her personal struggles. Opera doesnt pull in the money it used to. : false>>
+Christine Poirot: You know, I miss the bright lights...
+Christine Poirot: After all, it used to be MY name in lights.
+-> Why isn't your name in lights anymore?
+Christine Poirot: Oh, darling, you know how it is.
+Christine Poirot: With these new talkies, people don't really want to come see... singies.
+Christine Poirot: At least I still have one more run of the show I'm in.
+===

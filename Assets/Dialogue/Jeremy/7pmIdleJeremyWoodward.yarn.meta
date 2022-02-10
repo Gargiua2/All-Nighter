@@ -1,0 +1,54 @@
+fileFormatVersion: 2
+guid: 3ed6472b1500d4646847babd7e9a18da
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - 7pmIdleJeremyWoodward-start-0
+  - 7pmIdleJeremyWoodward-start-1
+  - 7pmIdleJeremyWoodward-start-2
+  - 7pmIdleJeremyWoodward-start-3
+  - 7pmIdleJeremyWoodward-start-4
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWard1-5
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWard1-6
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWard1-7
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWard1-8
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWard1-9
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWard1-10
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWard2-11
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWard2-12
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWard2-13
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWard2-14
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWard2-15
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWard2-16
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWard3-17
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWard3-18
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWard3-19
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWard3-20
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWard3-21
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWard3-22
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWard4-23
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWard4-24
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWard4-25
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWard4-26
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWard4-27
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWard4-28
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWardAnyoneSuspicious-29
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWardAnyoneSuspicious-30
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWardAnyoneSuspicious-31
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWardAnyoneSuspicious-32
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWardAnyoneSuspicious-33
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWardAnyoneSuspicious-34
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWardAnyoneSuspicious-35
+  - 7pmIdleJeremyWoodward-IdleJeremyWoodWardLeave-36
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 3ed6472b1500d4646847babd7e9a18da, type: 3}
+  localizations: []

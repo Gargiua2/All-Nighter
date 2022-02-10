@@ -1,0 +1,43 @@
+fileFormatVersion: 2
+guid: 9a30c8609b08d6b439a31bd286d9b049
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - ChristinePoirot9pm-ChristinePoirot9pmStart-0
+  - ChristinePoirot9pm-ChristinePoirot9pmStart-1
+  - ChristinePoirot9pm-ChristinePoirot9pmStart-2
+  - ChristinePoirot9pm-ChristinePoirot9pmStart-3
+  - ChristinePoirot9pm-ChristinePoirot9pmStart-4
+  - ChristinePoirot9pm-ChristinePoirot9pmStart-5
+  - ChristinePoirot9pm-ChristinePoirot9pmStart-6
+  - ChristinePoirot9pm-ChristinePoirot9pmStart-7
+  - ChristinePoirot9pm-ChristinePoirot9pmStart-8
+  - ChristinePoirot9pm-ChristinePoirot9pmStart-9
+  - ChristinePoirot9pm-ChristinePoirot9pmStart-10
+  - ChristinePoirot9pm-ChristinePoirot9pmLeave-11
+  - ChristinePoirot9pm-ChristinePoirot9pmLeave-12
+  - ChristinePoirot9pm-ChristinePoirot9pm1-13
+  - ChristinePoirot9pm-ChristinePoirot9pm1-14
+  - ChristinePoirot9pm-ChristinePoirot9pm1-15
+  - ChristinePoirot9pm-ChristinePoirot9pm1-16
+  - ChristinePoirot9pm-ChristinePoirot9pm1-17
+  - ChristinePoirot9pm-ChristinePoirot9pm1-18
+  - ChristinePoirot9pm-ChristinePoirot9pm2-19
+  - ChristinePoirot9pm-ChristinePoirot9pm2-20
+  - ChristinePoirot9pm-ChristinePoirot9pm2-21
+  - ChristinePoirot9pm-ChristinePoirot9pm2-22
+  - ChristinePoirot9pm-ChristinePoirot9pm3-23
+  - ChristinePoirot9pm-ChristinePoirot9pm3-24
+  - ChristinePoirot9pm-ChristinePoirot9pm3-25
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 9a30c8609b08d6b439a31bd286d9b049, type: 3}
+  localizations: []

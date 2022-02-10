@@ -1,0 +1,56 @@
+title: PaulMoss8pmStart
+tags: 
+colorID: 0
+position: 1320,-1240
+---
+Paul Moss: ...And THAT'S how we got there!
+Fillip Dahl: I simply don't see how the waves, created by a huge rock in the sky, could be MORE reliable than engines you build yourself.
+Paul Moss: Well I don't see how falling hundreds of thousands of feet from the sky is any safer than staying put in the water!
+Paul Moss: Oh, finally someone else here to give an opinion!
+Paul Moss: Settle a dispute for us-- which do you think is safer, ship travel or zepplin travel?
+[[Gotta be ship travel.|PaulMoss8pm1]]
+[[Zepplin travel all the way!!|PaulMoss8pm2]]
+[[Uh... neither?|PaulMoss8pm3]]
+[[Don't know, gotta go!|PaulMoss8pmLeave]]
+===
+title: PaulMoss8pm1
+tags: 
+colorID: 0
+position: 1000,-940
+---
+Paul Moss: AH-HA! Ships!
+Fillip Dahl: Ships?!
+Paul Moss: Water travel is superior in every way, absolutely.
+Paul Moss: Thank you for your contribution!
+===
+title: PaulMoss8pm2
+tags: 
+colorID: 0
+position: 1220,-940
+---
+Fillip Dahl: Excellent! Yes, zepplins!
+Paul Moss: Hurmph. That's not how our ancestors would've done it.
+Fillip Dahl: Innovation, my dear Moss!
+Fillip Dahl: Air travel may not be our past, but it is most certainly our future.
+Fillip Dahl: Thank you for your contributions and support in this matter.
+===
+title: PaulMoss8pm3
+tags: 
+colorID: 0
+position: 1440,-940
+---
+Paul Moss: Neither?! You simply don't know what you're talking about!
+Fillip Dahl: Naturally. While I understand the hesitancy of some to fly, it still has its advantages.
+Paul Moss: Of course! And although I've had many-a-crew struggle to get their stomaches under control on the seas, there's still a reason we sail!
+Fillip Dahl: But to not have an opinion at all between the two...
+Paul Moss: Absolutely preposterous.
+Fillip Dahl: Agreed.
+Paul Moss: Maybe you're better off talking to... someone else, for the moment?
+===
+title: PaulMoss8pmLeave
+tags: 
+colorID: 0
+position: 1660,-940
+---
+Paul Moss: Oh, all right then.
+===

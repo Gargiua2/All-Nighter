@@ -1,0 +1,54 @@
+title: PaulMoss9pmStart
+tags: 
+colorID: 0
+position: 1640,-1720
+---
+Paul Moss: In all the seas! Never had a scare like that.
+Paul Moss: ...Okay, maybe that was an exaggheration. 
+Paul Moss: I fought a beast like that dino over there. But we didn't know its name, and we certainly didn't care enough to preserve the body.
+Paul Moss: It's kill or be killed out there, you know.
+
+[[Do you know why the lights went out?|PaulMoss9pm1]]
+[[Do you know where Fillip Dahl went?|PaulMoss9pm2]]
+[[Wow, what a cool story... Bye now.|PaulMoss9pmLeave]]
+===
+title: PaulMoss9pmLeave
+tags: 
+colorID: 0
+position: 1880,-1480
+---
+Paul Moss: See you around! Have fun!
+===
+title: PaulMoss9pm1
+tags: 
+colorID: 0
+position: 1400,-1480
+---
+<<addEvidence DialogueRunner Sailors Tale : Paul recounted his experience with the black out to you, noting the fact that he heard a loud shriek, and someone rushing to the left hallway. : false>>
+Paul Moss: The lights... went out?
+Paul Moss: OH! I forgot you land-farers are used to the lights staying on all the time.
+Paul Moss: What a luxury! I don't know WHY the lights went out...
+Paul Moss: But I definitely remember seeing a chap walk into the left hallway before it happened.
+Paul Moss: Another lass was taking a phone call before it, too.
+Paul Moss: By all accounts that is... at least a little suspcect.
+Paul Moss: Other than that, no information here!
+===
+title: PaulMoss9pm2
+tags: 
+colorID: 0
+position: 1640,-1480
+---
+Paul Moss: Where'd Fillip Dahl go, that rascal?
+Paul Moss: No doubt he went to the bar to grab a celebratory drink.
+-> What's he celebrating?
+    Paul Moss: Why, a moment away from the Evalyn! 
+    Paul Moss: They really aren't a good match, are they?
+    Paul Moss: I wonder why they ever got married.
+-> What does he drink?
+    Paul Moss: The Fillip! He won't stop bragging about a drink named after him.
+    Paul Moss: Shame it's a gin-and-beer twist with grape juice...
+    Paul Moss: ...disgusting shame.
+Paul Moss: Anywho! I believe Fillip went to go get wasted.
+Paul Moss: I saw him walk over there while the lights were out, and he probably said something to me.
+Paul Moss: Shame I didn't hear what he said because that woman at the main table was shouting.
+===

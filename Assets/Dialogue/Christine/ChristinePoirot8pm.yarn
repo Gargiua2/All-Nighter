@@ -1,0 +1,60 @@
+title: ChristinePoirot8pmStart
+tags: 
+colorID: 0
+position: 1640,-1720
+---
+Christine Poirot: And so I said something like, 'Why the long face?' and she said something like, 'No, no, I'm just horsing around!'
+<<wait 2>>
+Christine Poirot: ...Do you get it, Theo?
+Theodore Calvino: ...Yes, I do.
+Christine Poirot: ...
+Theodore Calvino: ...Very funny.
+Christine Poirot: Oh yes! Isn't it? I knew you'd like it especially, Theo. 
+[[Got any other jokes?|ChristinePoirot8pm1]]
+[[Hey, where did Adele go?|ChristinePoirot8pm2]]
+[[Whoops, sorry to interrupt, I'll be going now.|ChristinePoirot8pmLeave]]
+===
+title: ChristinePoirot8pmLeave
+tags: 
+colorID: 0
+position: 1880,-1480
+---
+Christine Poirot: Enjoy yourself, darling!
+===
+title: ChristinePoirot8pm1
+tags: 
+colorID: 0
+position: 1400,-1480
+---
+Christine Poirot: Oh HAVE I!
+Theodore Calvino: ...Please don't...
+Christine Poirot: Okay, so, a horse walks into a bar and says, 'Excuse me, good sir, are you hiring?'
+Christine Poirot: And the manager gives this horse a real good look then says, 'Sorry, no. Why don't you try the circus?'
+Christine Poirot: And then you know what the horse said?
+-> 'Ok thanks anyway, I'll come back another day.'
+    Christine Poirot: Haha, if only! But no, that's not what he says.
+-> 'Do you know how hard it is to get a job in this city? Please, I work like a horse!'
+    Christine Poirot: Oh, that's a good one, but no.
+-> 'Now who has the long face?'
+    Christine Poirot: Ah, that would've been good! But no, that's not what he says.
+-> No, what'd he say?
+Christine Poirot: The horse says back to the bartender, 'Why would the circus need a bartender?'
+Christine Poirot: Isn't that SIMPLY hiLARIOUS?
+-> Yes!
+    Christine Poirot: Thank you!
+-> I've... heard better. But I've also heard worse.
+    Theodore Calvino: ... I told you not to.
+    Theodore Calvino: I tried to save you from it.
+===
+title: ChristinePoirot8pm2
+tags: 
+colorID: 0
+position: 1640,-1480
+---
+<<addEvidence DialogueRunner Doctors Phone Call: When asked about the whereabouts of Adele, Theodore suggests she walked away to take a phone call. : true>>
+Christine Poirot: Oh, uh, you know, I'm not really sure...
+Theodore Calvino: ...She stepped aside to take a call.
+-> With who?
+Theodore Calvino: ...I don't know.
+Christine Poirot: Oh, I hope she's okay.
+===

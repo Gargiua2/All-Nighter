@@ -1,0 +1,65 @@
+fileFormatVersion: 2
+guid: add9e30cbbe493846a4fa3360712acc2
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - AdeleLangdon9pm-AdeleLangdon9pmStart-0
+  - AdeleLangdon9pm-AdeleLangdon9pmStart-1
+  - AdeleLangdon9pm-AdeleLangdon9pmStart-2
+  - AdeleLangdon9pm-AdeleLangdon9pmStart-3
+  - AdeleLangdon9pm-AdeleLangdon9pmStart-4
+  - AdeleLangdon9pm-AdeleLangdon9pmStart-5
+  - AdeleLangdon9pm-AdeleLangdon9pmStart-6
+  - AdeleLangdon9pm-AdeleLangdon9pmStart-7
+  - AdeleLangdon9pm-AdeleLangdon9pmStart-8
+  - AdeleLangdon9pm-AdeleLangdon9pmStart-9
+  - AdeleLangdon9pm-AdeleLangdon9pmStart-10
+  - AdeleLangdon9pm-AdeleLangdon9pmStart-11
+  - AdeleLangdon9pm-AdeleLangdon9pmStart-12
+  - AdeleLangdon9pm-AdeleLangdon9pmStart-13
+  - AdeleLangdon9pm-AdeleLangdon9pmStart-14
+  - AdeleLangdon9pm-AdeleLangdon9pmStart-15
+  - AdeleLangdon9pm-AdeleLangdon9pmStart-16
+  - AdeleLangdon9pm-AdeleLangdon9pmStart-17
+  - AdeleLangdon9pm-AdeleLangdon9pmStart-18
+  - AdeleLangdon9pm-AdeleLangdon9pmStart-19
+  - AdeleLangdon9pm-AdeleLangdon9pmStart-20
+  - AdeleLangdon9pm-AdeleLangdon9pmStart-21
+  - AdeleLangdon9pm-AdeleLangdon9pmStart-22
+  - AdeleLangdon9pm-AdeleLangdon9pmStart-23
+  - AdeleLangdon9pm-AdeleLangdon9pmLeave-24
+  - AdeleLangdon9pm-AdeleLangdon9pm1-25
+  - AdeleLangdon9pm-AdeleLangdon9pm1-26
+  - AdeleLangdon9pm-AdeleLangdon9pm1-27
+  - AdeleLangdon9pm-AdeleLangdon9pm1-28
+  - AdeleLangdon9pm-AdeleLangdon9pm1-29
+  - AdeleLangdon9pm-AdeleLangdon9pm1-30
+  - AdeleLangdon9pm-AdeleLangdon9pm2-31
+  - AdeleLangdon9pm-AdeleLangdon9pm2-32
+  - AdeleLangdon9pm-AdeleLangdon9pm2-33
+  - AdeleLangdon9pm-AdeleLangdon9pm2-34
+  - AdeleLangdon9pm-AdeleLangdon9pm2-35
+  - AdeleLangdon9pm-AdeleLangdon9pm2-36
+  - AdeleLangdon9pm-AdeleLangdon9pm2-37
+  - AdeleLangdon9pm-AdeleLangdon9pm2-38
+  - AdeleLangdon9pm-AdeleLangdon9pm2-39
+  - AdeleLangdon9pm-AdeleLangdon9pm2-40
+  - AdeleLangdon9pm-AdeleLangdon9pm2-41
+  - AdeleLangdon9pm-AdeleLangdon9pm2-42
+  - AdeleLangdon9pm-AdeleLangdon9pm2-43
+  - AdeleLangdon9pm-AdeleLangdon9pm2-44
+  - AdeleLangdon9pm-AdeleLangdon9pm2-45
+  - AdeleLangdon9pm-AdeleLangdon9pm2-46
+  - AdeleLangdon9pm-AdeleLangdon9pm2-47
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: add9e30cbbe493846a4fa3360712acc2, type: 3}
+  localizations: []

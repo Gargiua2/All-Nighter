@@ -1,0 +1,58 @@
+title: FillipDahl9pmStart
+tags: 
+colorID: 0
+position: 1640,-1720
+---
+Fillip Dahl: A Fillip, right now! 
+B. Tender: What's a... a Phil-up?
+Fillip Dahl: Oh, I'll make it myself.
+Fillip Dahl: Just let me, get... behind the bar...
+B. Tender: I'm not sure that's a great... okay. You're here now. Great.
+Fillip Dahl: ONE FILLIP! Coming up in two shakes of a rabbit's tail!
+-> What's a Fillip?
+    Fillip Dahl: Only the best thing to happen to this museum in a LONG TIME!
+    Fillip Dahl: Wash the cup with alcohol, fill it with alcohol, then drink it!
+    Fillip Dahl: A true masterpiece.
+Fillip Dahl: Did you actually want to ask me something though?
+[[Yes new Bar-tender-man, do you know why the lights went out?|FillipDahl9pm1]]
+[[Do you know where Evalyn is?|FillipDahl9pm2]]
+[[Nope, just came to say hi. Bye!|FillipDahl9pmLeave]]
+===
+title: FillipDahl9pmLeave
+tags: 
+colorID: 0
+position: 1880,-1480
+---
+Fillip Dahl: All right, I'll be here mixing my drink!
+===
+title: FillipDahl9pm1
+tags: 
+colorID: 0
+position: 1400,-1480
+---
+<<addEvidence DialogueRunner The Shriek: Fillip shares with you that when the lights flashed, he heard a womans shriek. Apparently he put it out of mind after realizing it wasnt his wife. : false>>
+Fillip Dahl: Well, they say bar tenders should know everything about their bar.
+Fillip Dahl: Luckily, this isn't my bar and I'm not a bar tender.
+Fillip Dahl: I just came over here to get a drink when the lights went out.
+Fillip Dahl: I heard a woman shrieking and thought it was my wife Evalyn for a second, but quickly realized it wasn't and left.
+Fillip Dahl: Then the lights came back and I made my way finally to the bar, and here we are. 
+Fillip Dahl: I haven't left this main room for a few hours, so I couldn't have shut the lights off.
+Fillip Dahl: Aaaaaannndddd, my Fillip drink is ready! I'll be going, now.
+===
+title: FillipDahl9pm2
+tags: 
+colorID: 0
+position: 1640,-1480
+---
+Fillip Dahl: How should I know?
+Fillip Dahl: Isn't the point of marriage to know who you should stay AWAY from?
+-> Uh... No.
+-> Yep, pretty much.
+Fillip Dahl: Well, that's how we work it! So I have no idea where she is.
+-> Where did you last see her?
+Fillip Dahl: Uh... I think it was when we got into a spat around 7pm.
+Fillip Dahl: Then we went our separate ways, no doubt she went to look at those... spineless sticks there on the upper floor of this main room.
+Fillip Dahl: ...After that, she's really on her own. We're meeting back at the Zepplin at 2am.
+Fillip Dahl: So whatever she does between now and then really isn't my concern.
+Fillip Dahl: Aaaaaannndddd, my Fillip drink is ready! I'll be going, now.
+===

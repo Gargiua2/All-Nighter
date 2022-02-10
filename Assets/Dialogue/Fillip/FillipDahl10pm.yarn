@@ -1,0 +1,16 @@
+title: FillipDahl10pmStart
+tags: 
+colorID: 0
+position: 175,-131
+---
+<<addEvidence DialogueRunner King of the World: You encountered Fillip on the balcony, clearly intoxicated. He spoke of the feeling that he could do anything ... and no one can stop you. : false>>
+Fillip Dahl: I feel like the king of the world here!
+Fillip Dahl: What a way to watch a party!
+-> It's like being on a zepplin!
+    Fillip Dahl: INDEED! Watching people from above never gets old.
+    Fillip Dahl: Feels like you could do anything, be anyone... 
+    Fillip Dahl: ...And no one can stop you.
+-> I'd rather be on the main floor.
+    Fillip Dahl: I see the appeal. The main floor is where the bar is, after all.
+    Fillip Dahl: But I already got my drink, and I'm doing FINE!
+===

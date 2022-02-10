@@ -1,0 +1,70 @@
+title: IdleRianMarple7PM
+tags: 
+colorID: 0
+position: 330,-558
+---
+Rian Marple: 120... in a place this old? Incredible.
+[[Who are you?|IdleRianMarple1]]
+[[120 what?|IdleRianMarple2]]
+[[Truly an electrifying observation.|IdleRianMarple3]]
+[[What else have you noticed around here?|IdleRianMarpleAnyoneSuspicious]]
+===
+title: IdleRianMarple1
+tags: 
+colorID: 0
+position: 109,-217
+---
+Rian Marple: The name's Rian. The business is... electricity. 
+->Could you be more specific?
+    Rian Marple: How much more specific could I be? I help stuff move from one place to another. Nothing more to say.
+->Thanks for that intel.
+    Rian Marple: That one's free. Next one's going to cost you... Just kidding.
+[[Well thanks for the... talk. I'll be going now.|IdleRianMarpleLeave]]
+[[Have you noticed anything strange or anyone acting differently?|IdleRianMarpleAnyoneSuspicious]]
+===
+title: IdleRianMarple2
+tags: 
+colorID: 0
+position: 326,-223
+---
+Rian Marple: 120 volts, of course. We're in the states here, so 120.
+-> So what does that mean for me?
+    Rian Marple: Not much. You can go about your evening now.
+-> Why's that so surprising?
+    Rian Marple: Well, this is an old building full of... old things. So, naturally, I didn't think there'd be any electricty at all, least of all 120 volts going through the walls. But here we are.
+[[Okay then. See you around.|IdleRianMarpleLeave]]
+[[Hold up, one more question: have you seen anyone suspicious around?|IdleRianMarpleAnyoneSuspicious]]
+===
+title: IdleRianMarple3
+tags: 
+colorID: 0
+position: 551,-218
+---
+Rian Marple: Thanks, that's a specialty.
+[[Well, enjoy your evening.|IdleRianMarpleLeave]]
+[[Have you noticed anyone suspicious from up here?|IdleRianMarpleAnyoneSuspicious]]
+===
+title: IdleRianMarpleAnyoneSuspicious
+tags: 
+colorID: 0
+position: 549,241
+---
+Rian Marple: I did see a few strange people, from this vantage. Who are you wondering about, specifically?
+-> Those people by the table.
+    Rian Marple: That's Christine, Adele, and Theodore. I guess you could call them the 'life' of the party, but they take up a lot of battery power, if you catch my drift... They drink a lot, is what I'm trying to say. Good thing they do too. You best talk to them after they've had their pints.
+-> That guy by the food table.
+    Rian Marple: That's Paul Moss. Probably isn't a damn country in this world that doesn't have his footprints on it. With that said, he writes some intriguing pieces for The Signal. Does some good stuff for good people.
+-> Someone else.
+    Rian Marple: Well, I saw that well-to-do couple, Evalyn Hoscut and Fillip Dahl, head off to the hallway on the right. You could fit a whole zepplin between their relationship, and I'm sure Fillip being the Zepp pilot, he surely has. That is, they're on the rocks. Or rather, hitting turbulance to keep with the metaphor. Also, I saw that odd Jeremy Woodward head over to that hallway too. Truly an odd one, he is... 
+-> You.
+    Rian Marple: ... Like I said. Not much more to share in this department. Electrons, wires, resistors.
+
+Rian Marple: That's about all I'm at liberty to share. Yes, you're welcome, blah blah, don't mention it.  Go on, join the party now.
+===
+title: IdleRianMarpleLeave
+tags: 
+colorID: 0
+position: 157,255
+---
+Rian Marple: I'll be here...
+===

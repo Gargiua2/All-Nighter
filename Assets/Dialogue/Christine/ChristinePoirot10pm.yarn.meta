@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4bd7b036f5a7aef46a3233f16f1c3d7c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - ChristinePoirot10pm-ChristinePoirot10pmStart-0
+  - ChristinePoirot10pm-ChristinePoirot10pmStart-1
+  - ChristinePoirot10pm-ChristinePoirot10pmStart-2
+  - ChristinePoirot10pm-ChristinePoirot10pmStart-3
+  - ChristinePoirot10pm-ChristinePoirot10pmStart-4
+  - ChristinePoirot10pm-ChristinePoirot10pmStart-5
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 4bd7b036f5a7aef46a3233f16f1c3d7c, type: 3}
+  localizations: []

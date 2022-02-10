@@ -1,0 +1,57 @@
+title: EvalynHoscut9pmStart
+tags: 
+colorID: 0
+position: 1640,-1720
+---
+Evalyn Hoscut: ...four, five, six... Oh, seven?...
+-> What are you counting?
+Evalyn Hoscut: The nodes from this leaf on this beautiful specimen. Come here, take a look.
+-> Are you sure it's safe?
+    Evalyn Hoscut: Well don't you have a keen eye!
+    Evalyn Hoscut: Yes, all these plants are poisonous. But of course...
+    Evalyn Hoscut: I'd never mean to hurt anyone. I just wanted you to see them a bit closer.
+    Evalyn Hoscut: Studies show that merely touching this plant can induce serious harm, and even be fatal...
+    Evalyn Hoscut: Isn't that just absolutely fascinating?
+-> What kind of plant is it?
+    Evalyn Hoscut: It's a Castor Oil plant.
+    Evalyn Hoscut: Otherwise known as the most dangerous plant in the world.
+    Evalyn Hoscut: And it's right here, I can practically touch it.
+    Evalyn Hoscut: But of course, if I actually did, I could very easily die.
+    Evalyn Hoscut: Isn't that just absolutely fascinating?
+<<wait 0.5>>
+Evalyn Hoscut: ...I think it is, at least.
+Evalyn Hoscut: Now, did you come over here with something to say?
+[[Do you know why the lights went out?|EvalynHoscut9pm1]]
+[[Do you know where Fillip is?|EvalynHoscut9pm2]]
+[[No, actually. Whoops! Bye!|EvalynHoscut9pmLeave]]
+===
+title: EvalynHoscut9pmLeave
+tags: 
+colorID: 0
+position: 1880,-1480
+---
+Evalyn Hoscut: Yes, good bye... two, three, four....
+===
+title: EvalynHoscut9pm1
+tags: 
+colorID: 0
+position: 1400,-1480
+---
+Evalyn Hoscut: I'll be honest with you, I wasn't paying attention when the lights went out.
+Evalyn Hoscut: I just came over here from one of the side hallways and was looking at these plants in peace.
+Evalyn Hoscut: Though, by looking at the plants of course, my back has been turned to the entire party.
+Evalyn Hoscut: And even if I did glance over at the congregation, my mind would most assuredly be on these plants.
+Evalyn Hoscut: Sorry I couldn't be of more help.
+===
+title: EvalynHoscut9pm2
+tags: 
+colorID: 0
+position: 1640,-1480
+---
+Evalyn Hoscut: I believe my husband and I have reached a mutual agreement.
+Evalyn Hoscut: I have my life, and he has his.
+Evalyn Hoscut: Do you know where a random party-goer is at this exact moment?
+Evalyn Hoscut: Like Rian Marple, or Theodore Calvino?
+Evalyn Hoscut: ...that's basically what you're asking me. Where's Fillip? I don't know.
+Evalyn Hoscut: And that's that. Now I'll need all the time I have to continue studying these plants, if you don't mind.
+===

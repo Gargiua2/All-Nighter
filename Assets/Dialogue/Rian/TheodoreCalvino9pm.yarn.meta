@@ -1,0 +1,39 @@
+fileFormatVersion: 2
+guid: a6d0fb06d522b164a8b075619d035453
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - TheodoreCalvino9pm-TheodoreCalvino9pmStart-0
+  - TheodoreCalvino9pm-TheodoreCalvino9pmStart-1
+  - TheodoreCalvino9pm-TheodoreCalvino9pmStart-2
+  - TheodoreCalvino9pm-TheodoreCalvino9pmStart-3
+  - TheodoreCalvino9pm-TheodoreCalvino9pmLeave-4
+  - TheodoreCalvino9pm-TheodoreCalvino9pm1-5
+  - TheodoreCalvino9pm-TheodoreCalvino9pm1-6
+  - TheodoreCalvino9pm-TheodoreCalvino9pm1-7
+  - TheodoreCalvino9pm-TheodoreCalvino9pm1-8
+  - TheodoreCalvino9pm-TheodoreCalvino9pm1-9
+  - TheodoreCalvino9pm-TheodoreCalvino9pm1-10
+  - TheodoreCalvino9pm-TheodoreCalvino9pm1-11
+  - TheodoreCalvino9pm-TheodoreCalvino9pm1-12
+  - TheodoreCalvino9pm-TheodoreCalvino9pm2-13
+  - TheodoreCalvino9pm-TheodoreCalvino9pm2-14
+  - TheodoreCalvino9pm-TheodoreCalvino9pm2-15
+  - TheodoreCalvino9pm-TheodoreCalvino9pm2-16
+  - TheodoreCalvino9pm-TheodoreCalvino9pm2-17
+  - TheodoreCalvino9pm-TheodoreCalvino9pm2-18
+  - TheodoreCalvino9pm-TheodoreCalvino9pm2-19
+  - TheodoreCalvino9pm-TheodoreCalvino9pm2-20
+  - TheodoreCalvino9pm-TheodoreCalvino9pm2-21
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: a6d0fb06d522b164a8b075619d035453, type: 3}
+  localizations: []

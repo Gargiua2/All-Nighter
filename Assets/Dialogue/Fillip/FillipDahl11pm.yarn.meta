@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: d3c362df8a7a24442b02ac3706dd5073
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - FillipDahl11pm-FillipDahl11pmStart-0
+  - FillipDahl11pm-FillipDahl11pmStart-1
+  - FillipDahl11pm-FillipDahl11pmStart-2
+  - FillipDahl11pm-FillipDahl11pmStart-3
+  - FillipDahl11pm-FillipDahl11pmStart-4
+  - FillipDahl11pm-FillipDahl11pmStart-5
+  - FillipDahl11pm-FillipDahl11pmStart-6
+  - FillipDahl11pm-FillipDahl11pmStart-7
+  - FillipDahl11pm-FillipDahl11pmStart-8
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: d3c362df8a7a24442b02ac3706dd5073, type: 3}
+  localizations: []

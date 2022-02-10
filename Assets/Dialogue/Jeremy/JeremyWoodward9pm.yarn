@@ -1,0 +1,28 @@
+title: JeremyWoodward9pmStart
+tags: 
+colorID: 0
+position: 1640,-1720
+---
+Jeremy Woodward: My word! What ever could that have been?
+Jeremy Woodward: I know I wanted to see a museum after dark, but that's not what I meant!
+[[Any idea who did it?|JeremyWoodward9pm1]]
+[[Scary stuff! Anyway, see you around.|JeremyWoodward9pmLeave]]
+===
+title: JeremyWoodward9pm1
+tags: 
+colorID: 0
+position: 1440,-1460
+---
+<<addEvidence DialogueRunner An ... Eccentric Theory: You spoke with Jeremy on the topic of the lights going out. He suggests someone may have been plugging in their nightlight. Who knows? : false>>
+Jeremy Woodward: I'm not sure who could've done that since, well, the lights went out!
+Jeremy Woodward: I assure you I didn't do it. There's nothing nearby that I could've switched on or off.
+Jeremy Woodward: But you know what, sometimes my daughter plugs in her nightlight and it blows the whole circuit!
+Jeremy Woodward: I wonder if someone was plugging in their nightlight?
+===
+title: JeremyWoodward9pmLeave
+tags: 
+colorID: 0
+position: 1880,-1480
+---
+Jeremy Woodward: Stay safe out there!
+===

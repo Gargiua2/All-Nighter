@@ -1,0 +1,51 @@
+fileFormatVersion: 2
+guid: 449127c0f0680694daee243238fa7cd3
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - ChristinePoirot8pm-ChristinePoirot8pmStart-0
+  - ChristinePoirot8pm-ChristinePoirot8pmStart-1
+  - ChristinePoirot8pm-ChristinePoirot8pmStart-2
+  - ChristinePoirot8pm-ChristinePoirot8pmStart-3
+  - ChristinePoirot8pm-ChristinePoirot8pmStart-4
+  - ChristinePoirot8pm-ChristinePoirot8pmStart-5
+  - ChristinePoirot8pm-ChristinePoirot8pmStart-6
+  - ChristinePoirot8pm-ChristinePoirot8pmStart-7
+  - ChristinePoirot8pm-ChristinePoirot8pmStart-8
+  - ChristinePoirot8pm-ChristinePoirot8pmLeave-9
+  - ChristinePoirot8pm-ChristinePoirot8pm1-10
+  - ChristinePoirot8pm-ChristinePoirot8pm1-11
+  - ChristinePoirot8pm-ChristinePoirot8pm1-12
+  - ChristinePoirot8pm-ChristinePoirot8pm1-13
+  - ChristinePoirot8pm-ChristinePoirot8pm1-14
+  - ChristinePoirot8pm-ChristinePoirot8pm1-15
+  - ChristinePoirot8pm-ChristinePoirot8pm1-16
+  - ChristinePoirot8pm-ChristinePoirot8pm1-17
+  - ChristinePoirot8pm-ChristinePoirot8pm1-18
+  - ChristinePoirot8pm-ChristinePoirot8pm1-19
+  - ChristinePoirot8pm-ChristinePoirot8pm1-20
+  - ChristinePoirot8pm-ChristinePoirot8pm1-21
+  - ChristinePoirot8pm-ChristinePoirot8pm1-22
+  - ChristinePoirot8pm-ChristinePoirot8pm1-23
+  - ChristinePoirot8pm-ChristinePoirot8pm1-24
+  - ChristinePoirot8pm-ChristinePoirot8pm1-25
+  - ChristinePoirot8pm-ChristinePoirot8pm1-26
+  - ChristinePoirot8pm-ChristinePoirot8pm1-27
+  - ChristinePoirot8pm-ChristinePoirot8pm1-28
+  - ChristinePoirot8pm-ChristinePoirot8pm2-29
+  - ChristinePoirot8pm-ChristinePoirot8pm2-30
+  - ChristinePoirot8pm-ChristinePoirot8pm2-31
+  - ChristinePoirot8pm-ChristinePoirot8pm2-32
+  - ChristinePoirot8pm-ChristinePoirot8pm2-33
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 449127c0f0680694daee243238fa7cd3, type: 3}
+  localizations: []

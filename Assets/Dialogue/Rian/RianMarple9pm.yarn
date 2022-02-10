@@ -1,0 +1,40 @@
+title: RianMarple9pmStart
+tags: 
+colorID: 0
+position: 1640,-1720
+---
+Rian Marple: Wow, can't believe that worked.
+[[What worked?|RianMarple9pm1]]
+[[Did you just turn off the lights?|RianMarple9pm2]]
+[[Can't talk. Got to go.|RianMarple9pmLeave]]
+===
+title: RianMarple9pm1
+tags: 
+colorID: 0
+position: 1440,-1460
+---
+<<addEvidence DialogueRunner  Electricians Folly: You spoke with Rian in the left hall, and he promptly admitted to accidentally causing the lights to flicker. : false>>
+Rian Marple: My uh... little test.
+Rian Marple: Just checking the electricity here and I accidentally switched the breaker.
+Rian Marple: Nothing else to see here.
+===
+title: RianMarple9pm2
+tags: 
+colorID: 0
+position: 1660,-1460
+---
+<<addEvidence DialogueRunner  Electricians Folly: You spoke with Rian in the left hall, and he promptly admitted to accidentally causing the lights to flicker. : false>>
+Rian Marple: I... yeah, I did.
+Rian Marple: No point in jumping around it, you can see the breaker box from here.
+Rian Marple: I was just checking out how the lights were hooked up.
+Rian Marple: Turns out there's one button that can turn off this whole floor.
+<<wait 2>>
+Rian Marple: Who knew.
+===
+title: RianMarple9pmLeave
+tags: 
+colorID: 0
+position: 1880,-1460
+---
+Rian Marple: All right, then.
+===

@@ -1,0 +1,53 @@
+title: PaulMoss7pmStart
+tags: 
+colorID: 0
+position: 400,-520
+---
+Paul Moss: Oh, hello. Beautiful night, isn't it?
+[[Quite. Now, who are you exactly?|PaulMoss7pm1]]
+[[Yes, but also have you seen anyone acting strange?|PaulMoss7pmAnyoneSuspicious]]
+[[I suppose. I'll be off now.|PaulMoss7pmLeave]]
+===
+title: PaulMoss7pm1
+tags: 
+colorID: 0
+position: 400,-240
+---
+Paul Moss: A traveler. But not in the new-fangled skies, no, I travel across the seas, as traveling should be.
+Paul Moss: You know, when I was younger, it took me a few days to get my land-legs back. But now look at me! Up on my feet in a few mere hours.
+-> Where did you just come from?
+    Paul Moss: Oh, this beautiful country a ways across. I enjoy mapping the coastlines, so I didn't get to see much of the interior.
+    Paul Moss: But I assure you, it was beautiful!
+-> Ever go on interesting adventures?
+    Paul Moss: Oh, have I. You see that dino over there? Would you believe me if I told you that I found bigger things out on the open waters?
+-> How did you get invited?
+    Paul Moss: Well I've done my part in archeology, both maritime and celestial, as well as research into pieces that the museum has acquired.
+    Paul Moss: I know what they've got down there in the basement, and though I can't say much, I am at liberty to say that there are some amazing exhibits coming up!
+    Paul Moss: I'll also tell you, lad, that I'm not much for this... frivolous goldary. 
+    Paul Moss: But give me a good ship and crew, and I'll show you how the stars shine brighter than any gems in this place.
+Paul Moss: Anything else I can do you for?
+[[Yeah, have you noticed anyone acting seemingly out-of-place?|PaulMoss7pmAnyoneSuspicious]]
+[[Nope! Thanks, I'll be off.|PaulMoss7pmLeave]]
+===
+title: PaulMoss7pmAnyoneSuspicious
+tags: 
+colorID: 0
+position: 520,40
+---
+Paul Moss: Hmmm... Anyone suspicious? Well, now.... There's that gent overlooking the party, and who knows what he's doing? 
+Paul Moss: Anyone standing by themselves at a party should really take a good look at their life.
+-> YOU'RE standing alone...
+    Paul Moss: ...No I'm not. I'm talking to you.
+-> I guess you're right.
+    Paul Moss: Life's meant to be lived, damn it! And what good's a party if you're not talking to anyone?
+    Paul Moss: Glad you see it my way, lad. 
+Paul Moss: Now, do you know how difficult it is to maintain bread on a ship? And hot dogs?
+Paul Moss: So if you'll excuse me, there are some pigs-in-a-blanket that are calling my name!
+===
+title: PaulMoss7pmLeave
+tags: 
+colorID: 0
+position: 240,40
+---
+Paul Moss: See ya around!
+===

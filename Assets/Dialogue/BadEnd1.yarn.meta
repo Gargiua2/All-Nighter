@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 75539bf2717b2c84b942370125d193a3
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - NewFile-BadEnd1-0
+  - NewFile-BadEnd1-1
+  - NewFile-BadEnd1-2
+  - NewFile-BadEnd1-3
+  - NewFile-BadEnd102-4
+  - NewFile-BadEnd102-5
+  - NewFile-WhatIsThatSound?-6
+  - NewFile-WhatIsThatSound?-7
+  - NewFile-WhatIsThatSound?-8
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: The node 'What is that sound?' contains illegal characters
+    in its title.
+  baseLanguage: {fileID: 7128917941130120860, guid: 75539bf2717b2c84b942370125d193a3, type: 3}
+  localizations: []

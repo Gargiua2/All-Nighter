@@ -1,0 +1,47 @@
+title: TheodoreCalvino9pmStart
+tags: 
+colorID: 0
+position: 1640,-1720
+---
+Theodore Calvino: Oh... Hello.
+[[Why are you over here?|TheodoreCalvino9pm1]]
+[[Do you know what happened?|TheodoreCalvino9pm2]]
+[[Oh... Bye.|TheodoreCalvino9pmLeave]]
+===
+title: TheodoreCalvino9pmLeave
+tags: 
+colorID: 0
+position: 1880,-1480
+---
+Theodore Calvino: ...Bye.
+===
+title: TheodoreCalvino9pm1
+tags: 
+colorID: 0
+position: 1400,-1480
+---
+<<addEvidence DialogueRunner A Convenient Getaway: When pressed about his whereabouts during the blackout, Theodore claims that he simply used the opportunity to get away from Christine. : false>>
+Theodore Calvino: I just... needed some time away from that table.
+Theodore Calvino: They... talk so much.
+-> Did you see anyone else over here?
+Theodore Calvino: I... don't think so.
+-> So the lights went out, you disappeared, and no one saw you?
+Theodore Calvino: That's usually what happens when the lights go out.
+Theodore Calvino: ...
+Theodore Calvino: No one seeing me, I mean.
+===
+title: TheodoreCalvino9pm2
+tags: 
+colorID: 0
+position: 1640,-1480
+---
+Theodore Calvino: One moment I was at the table, the next the lights went out...
+Theodore Calvino: And Christine was shouting in my ear.
+Theodore Calvino: So, I left.
+-> Did you see anyone else over here?
+Theodore Calvino: I... don't think so.
+-> So the lights went out, you disappeared, and no one saw you?
+Theodore Calvino: That's usually what happens when the lights go out.
+Theodore Calvino: ...
+Theodore Calvino: No one seeing me, I mean.
+===

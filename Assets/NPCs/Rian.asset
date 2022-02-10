@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75e3b258e195eb7498236bca41965c62, type: 3}
+  m_Name: Rian
+  m_EditorClassIdentifier: 
+  characterName: Rian Marple
+  color: {r: 0.4156863, g: 0.22352943, b: 0.16862746, a: 1}
+  overworldSprite: {fileID: 21300000, guid: ef7efa185cef0ff4e9c6664e103a0e13, type: 3}
+  dialoguePortrait: {fileID: 21300000, guid: 85e675281ac67e142bc2bd8595198c38, type: 3}
+  height: 1.5
+  locationSchedule:
+  - time:
+      clockTime: {x: 0, y: 0, z: 0}
+    room: 1
+    location: 3
+  - time:
+      clockTime: {x: 0, y: 20, z: 0}
+    room: 2
+    location: 0
+  - time:
+      clockTime: {x: 0, y: 21, z: 0}
+    room: 2
+    location: 2
+  - time:
+      clockTime: {x: 0, y: 22, z: 0}
+    room: 2
+    location: 1
+  - time:
+      clockTime: {x: 0, y: 23, z: 0}
+    room: 1
+    location: 3
+  dialogueSchedule:
+  - time:
+      clockTime: {x: 0, y: 19, z: 0}
+    dialogueScript: {fileID: 2480198943629176163, guid: 505ab94039bc64546897b97db7f57b3e, type: 3}
+  - time:
+      clockTime: {x: 0, y: 20, z: 0}
+    dialogueScript: {fileID: 2480198943629176163, guid: 0c060810e65a02c448770781b52611f6, type: 3}
+  - time:
+      clockTime: {x: 0, y: 21, z: 0}
+    dialogueScript: {fileID: 2480198943629176163, guid: e9fcf6c26e11d014eb2f7be9c7da9537, type: 3}
+  - time:
+      clockTime: {x: 0, y: 22, z: 0}
+    dialogueScript: {fileID: 2480198943629176163, guid: c8cc41cecbd70f44698f1dd89614c550, type: 3}
+  - time:
+      clockTime: {x: 0, y: 23, z: 0}
+    dialogueScript: {fileID: 2480198943629176163, guid: 09b1c520fe55a504498f2b626c64738c, type: 3}

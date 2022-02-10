@@ -1,0 +1,43 @@
+fileFormatVersion: 2
+guid: 635665d084aad6740ab99b08726afc7e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - PaulMoss8pm-PaulMoss8pmStart-0
+  - PaulMoss8pm-PaulMoss8pmStart-1
+  - PaulMoss8pm-PaulMoss8pmStart-2
+  - PaulMoss8pm-PaulMoss8pmStart-3
+  - PaulMoss8pm-PaulMoss8pmStart-4
+  - PaulMoss8pm-PaulMoss8pmStart-5
+  - PaulMoss8pm-PaulMoss8pmStart-6
+  - PaulMoss8pm-PaulMoss8pmStart-7
+  - PaulMoss8pm-PaulMoss8pmStart-8
+  - PaulMoss8pm-PaulMoss8pm1-9
+  - PaulMoss8pm-PaulMoss8pm1-10
+  - PaulMoss8pm-PaulMoss8pm1-11
+  - PaulMoss8pm-PaulMoss8pm1-12
+  - PaulMoss8pm-PaulMoss8pm2-13
+  - PaulMoss8pm-PaulMoss8pm2-14
+  - PaulMoss8pm-PaulMoss8pm2-15
+  - PaulMoss8pm-PaulMoss8pm2-16
+  - PaulMoss8pm-PaulMoss8pm2-17
+  - PaulMoss8pm-PaulMoss8pm3-18
+  - PaulMoss8pm-PaulMoss8pm3-19
+  - PaulMoss8pm-PaulMoss8pm3-20
+  - PaulMoss8pm-PaulMoss8pm3-21
+  - PaulMoss8pm-PaulMoss8pm3-22
+  - PaulMoss8pm-PaulMoss8pm3-23
+  - PaulMoss8pm-PaulMoss8pm3-24
+  - PaulMoss8pm-PaulMoss8pmLeave-25
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 635665d084aad6740ab99b08726afc7e, type: 3}
+  localizations: []

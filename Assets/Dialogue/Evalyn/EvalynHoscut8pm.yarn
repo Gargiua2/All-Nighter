@@ -1,0 +1,20 @@
+title: EvalynHoscut8pmStart
+tags: 
+colorID: 0
+position: 1320,-1240
+---
+Evalyn Hoscut: Don't touch anything.
+-> What do you mean?
+    Evalyn Hoscut: You see all those plants?
+    -> The ones right here?
+    Evalyn Hoscut: Yes.
+    Evalyn Hoscut: Don't touch them.
+    -> Ok.
+        Evalyn Hoscut: Good.
+    -> ...Why not?
+		<<addEvidence DialogueRunner Toxic Knowledge: You spoke with Evalyn, by the greenery, who shared with you her unusually vast knowledge on poisonous plants. : false>>
+        Evalyn Hoscut: They're poisonous.
+            -> Thanks for the heads up.
+            -> Why do you know that?
+Evalyn Hoscut: Just don't touch them.
+===

@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: a4cc3ba68207b0e4aac0afb90028ae51
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - PaulMoss11pm-PaulMoss11pmStart-0
+  - PaulMoss11pm-PaulMoss11pmStart-1
+  - PaulMoss11pm-PaulMoss11pmStart-2
+  - PaulMoss11pm-PaulMoss11pmStart-3
+  - PaulMoss11pm-PaulMoss11pmStart-4
+  - PaulMoss11pm-PaulMoss11pmStart-5
+  - PaulMoss11pm-PaulMoss11pmStart-6
+  - PaulMoss11pm-PaulMoss11pmStart-7
+  - PaulMoss11pm-PaulMoss11pmStart-8
+  - PaulMoss11pm-PaulMoss11pmStart-9
+  - PaulMoss11pm-PaulMoss11pmStart-10
+  - PaulMoss11pm-PaulMoss11pmStart-11
+  - PaulMoss11pm-PaulMoss11pmStart-12
+  - PaulMoss11pm-PaulMoss11pmStart-13
+  - PaulMoss11pm-PaulMoss11pmStart-14
+  - PaulMoss11pm-PaulMoss11pmStart-15
+  - PaulMoss11pm-PaulMoss11pmStart-16
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: a4cc3ba68207b0e4aac0afb90028ae51, type: 3}
+  localizations: []

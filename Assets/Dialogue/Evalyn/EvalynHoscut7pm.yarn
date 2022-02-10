@@ -1,0 +1,27 @@
+title: EvalynHoscut7pmStart
+tags: 
+colorID: 0
+position: 400,-520
+---
+<<addEvidence DialogueRunner Marital Strife : You overheard Evalyn and Fillip arguing over... who knows? Something about poison? : false>>
+Evalyn Hoscut: ...posionous, I told you! And you went anyway?
+Fillip Dahl: How was I supposed to know?
+Evalyn Hoscut: BECAUSE I TOLD YOU ALREADY!
+[[Pardon me, but Evalyn, do you have a moment?|EvalynHoscut7pm1]]
+[[... Wow, I should probably leave them alone.|EvalynHoscut7pmLeave]]
+===
+title: EvalynHoscut7pm1
+tags: 
+colorID: 0
+position: 520,-200
+---
+Evalyn Hoscut: A moment? At a time like this? Absolutely not!
+===
+title: EvalynHoscut7pmLeave
+tags: 
+colorID: 0
+position: 280,-200
+---
+Evalyn Hoscut: You should have KNOWN they were POISONOUS!
+Fillip Dahl: Listen, you weren't there, all right?!...
+===

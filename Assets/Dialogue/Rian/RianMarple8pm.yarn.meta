@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 0c060810e65a02c448770781b52611f6
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - RianMarple8pm-RianMarple8pmStart-0
+  - RianMarple8pm-RianMarple8pmStart-1
+  - RianMarple8pm-RianMarple8pmStart-2
+  - RianMarple8pm-RianMarple8pmStart-3
+  - RianMarple8pm-RianMarple8pmStart-4
+  - RianMarple8pm-RianMarple8pmStart-5
+  - RianMarple8pm-RianMarple8pmStart-6
+  - RianMarple8pm-RianMarple8pmStart-7
+  - RianMarple8pm-RianMarple8pmStart-8
+  - RianMarple8pm-RianMarple8pmStart-9
+  - RianMarple8pm-RianMarple8pmStart-10
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 0c060810e65a02c448770781b52611f6, type: 3}
+  localizations: []

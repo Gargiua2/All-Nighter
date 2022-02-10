@@ -1,0 +1,41 @@
+fileFormatVersion: 2
+guid: 12e1444c949960946855fcfdf337b615
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - GoodEnd-GoodEnd-0
+  - GoodEnd-GoodEnd-1
+  - GoodEnd-GoodEnd-2
+  - GoodEnd-GoodEnd2-3
+  - GoodEnd-GoodEnd2-4
+  - GoodEnd-GoodEnd3-5
+  - GoodEnd-GoodEnd3-6
+  - GoodEnd-GoodEnd3-7
+  - GoodEnd-GoodEnd3-8
+  - GoodEnd-GoodEnd3-9
+  - GoodEnd-GoodEnd3-10
+  - GoodEnd-GoodEnd4-11
+  - GoodEnd-GoodEnd4-12
+  - GoodEnd-GoodEnd4-13
+  - GoodEnd-GoodEnd4-14
+  - GoodEnd-GoodEnd4-15
+  - GoodEnd-GoodEnd4-16
+  - GoodEnd-GoodEnd4-17
+  - GoodEnd-GoodEnd4-18
+  - GoodEnd-GoodEnd4-19
+  - GoodEnd-GoodEnd4-20
+  - GoodEnd-GoodEnd4-21
+  - GoodEnd-GoodEnd4-22
+  - GoodEnd-GoodEnd4-23
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 12e1444c949960946855fcfdf337b615, type: 3}
+  localizations: []

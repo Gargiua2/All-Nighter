@@ -1,0 +1,58 @@
+title: ChristinePoirot9pmStart
+tags: 
+colorID: 0
+position: 1640,-1720
+---
+Christine Poirot: AAAK!
+Christine Poirot: I simply can't STAND the lights going off and on! 
+-> Are you all right, Christine?
+    Christine Poirot: I DON'T KNOW! The lights went off and back on again, as I'm sure you also experienced....
+    Christine Poirot: ...I felt SOMEONE walk by me, too CLOSE! Didn't touch me, but I could sense someone nearby...
+    Christine Poirot: I've never seen anything like it at a gala like this one!
+    Christine Poirot: Just IMAGINE if that happened at a SHOW!
+[[Do you know who did it?|ChristinePoirot9pm1]]
+[[Where's Theodore?|ChristinePoirot9pm2]]
+[[Who passed by you?|ChristinePoirot9pm3]]
+[[Yeah, yeah, super scary. I'll be off now.|ChristinePoirot9pmLeave]]
+===
+title: ChristinePoirot9pmLeave
+tags: 
+colorID: 0
+position: 2120,-1480
+---
+Christine Poirot: Well just make sure you WATCH your BACK! 
+Christine Poirot: Who KNOWS what's out there in the DARKNESS...
+===
+title: ChristinePoirot9pm1
+tags: 
+colorID: 0
+position: 1400,-1480
+---
+Christine Poirot: How could I possibly know?! I didn't SEE ANYTHING!
+Christine Poirot: I barely knew where I WAS!
+-> Weren't you sitting in the same seat the whole time?
+-> Don't you think you've had enough to drink?
+Christine Poirot: What a QUESTION to ask a LADY!
+Christine Poirot: You BEST be OFF before something WORSE happens than the lights going out!
+===
+title: ChristinePoirot9pm2
+tags: 
+colorID: 0
+position: 1640,-1480
+---
+<<addEvidence DialogueRunner Author's Disappearance: When questioned about the lights flashing, Christine shares that Theodore seems to have up and disappeared! : false>>
+Christine Poirot: YOU'RE RIGHT!
+Christine Poirot: THEODORE! Where are you?!
+-> I guess you don't know where they went then?
+Christine Poirot: THEOOOOO....
+===
+title: ChristinePoirot9pm3
+tags: 
+colorID: 0
+position: 1880,-1480
+---
+<<addEvidence DialogueRunner Author's Disappearance: When questioned about the lights flashing, Christine shares that Theodore seems to have up and disappeared! : false>>
+Christine Poirot: I don't have the slightest.
+Christine Poirot: It can't have been that darling Theodore, though. I would've recognized him.
+Christine Poirot: But I don't know who it was. Perhaps we'll never know?!
+===

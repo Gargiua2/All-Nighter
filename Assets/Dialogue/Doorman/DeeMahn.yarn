@@ -1,0 +1,71 @@
+title: DeeMahnStart
+tags: 
+colorID: 0
+position: 360,-400
+---
+Dee Mahn: The bar is over there, the dinosaur is straight ahead, and-- 
+Dee Mahn: Oh, you're here to talk to me?
+[[What is this party for?|DeeMahn3]]
+[[I need to send a telegram.|DeeMahn4]]
+[[Nothing, nevermind.|DeeMahnLeave]]
+===
+title: DeeMahnLeave
+tags: 
+colorID: 0
+position: 360,80
+---
+Dee Mahn: Thank you for visiting the Metropolitan Museum.
+Dee Mahn: Feel free to come back with any other questions or if you need to send a telegram.
+Dee Mahn: Have a safe and enjoyable night.
+===
+title: DeeMahn1
+tags: 
+colorID: 0
+position: -120,-160
+---
+Dee Mahn: Oh, haha, very funny, yes, indeed...
+<<wait .5>>
+Dee Mahn: ...You're the detective, of course. Invited to this gala to enjoy the night. 
+Dee Mahn: Anything else?
+[[Where am I?|DeeMahn2]]
+[[What is this party for?|DeeMahn3]]
+[[I need to send a telegram.|DeeMahn4]]
+[[No, that's everything.|DeeMahnLeave]]
+===
+title: DeeMahn2
+tags: 
+colorID: 0
+position: 160,-160
+---
+Dee Mahn: You're at the Metropolitan Museum, in the center of the city.
+Dee Mahn: Considered one of the most iconic locations in the country, the Museum has a strong following and a large collection.
+Dee Mahn: Many travel from across the world to see the items displayed here.
+Dee Mahn: Any other questions?
+[[Who am I?|DeeMahn1]]
+[[What is this party for?|DeeMahn3]]
+[[I need to send a telegram.|DeeMahn4]]
+[[No, nevermind.|DeeMahnLeave]]
+===
+title: DeeMahn3
+tags: 
+colorID: 0
+position: 440,-160
+---
+Dee Mahn: This gala is to fundraise for the newest exhibit in the museum.
+-> What is the new exhibit?
+    Dee Mahn: I... actually don't know. And the unveiling is not scheduled for at least another week.
+    Dee Mahn: Between you and me, this party seems more just for publicity and fundraising.
+Dee Mahn: Anything else I can help you with?
+[[Who am I?|DeeMahn1]]
+[[Where am I?|DeeMahn2]]
+[[I need to send a telegram.|DeeMahn4]]
+[[No, that's all.|DeeMahnLeave]]
+===
+title: DeeMahn4
+tags: 
+colorID: 0
+position: 720,-160
+---
+Dee Mahn: Of course. Let me set that up for you.
+<<accuse DialogueRunner>>
+===

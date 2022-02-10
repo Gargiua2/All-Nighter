@@ -1,0 +1,88 @@
+title: IdleTheodoreCalvino
+tags: 
+colorID: 0
+position: 400,-600
+---
+Theodore Calvino: ...What a... story, Christine.
+Christine Poirot: Thank you, thank you. I thought you'd particularly enjoy it, Theodore!
+
+[[Theodore, do you have a moment?|IdleTheodoreCalvino1]]
+[[Have any of you noticed anything strange?|IdleTheodoreCalvinoAnyoneSuspicious]]
+[[Sorry for interrupting! Please get back to your stories.|IdleTheodoreCalvinoLeave]]
+===
+title: IdleTheodoreCalvino1
+tags: 
+colorID: 0
+position: 400,-320
+---
+Theodore Calvino: Oh... uh... about me? Sure... what can I do for you?
+-> Who are you and what do you do?
+    Theodore Calvino: Name's Theodore... Theodore Calvino. And I uh... well, I write.
+    Theodore Calvino: I believe critics call my work... 'Summertime beach garbage'. Heh. But they're thrillers. I write thrillers. Heists... murders... the whole lot.
+    -> How did you get invited?
+        Theodore Calvino: Well, my name's... you know, all over book stores and things. So I'm uh... sure the people who organized this party wanted uhm... some famous names. So they got them.
+-> How did you get invited?
+    Theodore Calvino: Well, my name's... you know, all over book stores and things. So I'm uh... sure the people who organized this party wanted uhm... some famous names. So they got them.
+[[And have you noticed anyone suspicious at this party?|IdleTheodoreCalvinoAnyoneSuspicious]]
+[[Well, thanks for your time Theodore. I'll be going now.|IdleTheodoreCalvinoLeave]]
+===
+title: IdleTheodoreCalvinoAnyoneSuspicious
+tags: 
+colorID: 0
+position: 440,160
+---
+Theodore Calvino: Well I saw Fillip Dahl and Evalyn Hoscut were... fighting about something. They're in the hallway to the right now.
+<<addEvidence DialogueRunner The Loner : When asked about their fellow partygoers, several individuals pointed you towards Rian, who seemed to be keeping his distance from the group. : false>>
+Theodore Calvino: And there's someone watching us... Don't look now, but he's on the upper floor. Just watching...
+[[What about the people at your table?|IdleTheodoreCalvinoAnyoneSuspicious1]]
+[[All right, thanks for your time.|IdleTheodoreCalvinoLeave]]
+===
+title: IdleTheodoreCalvinoLeave
+tags: 
+colorID: 0
+position: 160,160
+---
+Theodore Calvino: ...Bye.
+===
+title: IdleTheodoreCalvinoAnyoneSuspicious1
+tags: 
+colorID: 0
+position: 320,440
+---
+Theodore Calvino: Yes, that's Adele Langdon and that's Christine Poirot.
+[[What do you know about Adele?|IdleTheodoreCalvinoAnyoneSuspicious1_1]]
+[[What do you know about Christine?|IdleTheodoreCalvinoAnyoneSuspicious1_2]]
+[[Nevermind, thanks for your time.|IdleTheodoreCalvinoLeave]]
+===
+title: IdleTheodoreCalvinoAnyoneSuspicious1_1
+tags: 
+colorID: 0
+position: 80,680
+---
+Theodore Calvino: Adele is much more restrained than Christine. But they both uh... drink. A lot.
+Theodore Calvino: And the way Adele describes art is an art in and of itself... Her house is a museum on its own.
+<<if not visited("IdleTheodoreCalvinoAnyoneSuspicious1_2")>>
+[[And what about Christine?|IdleTheodoreCalvinoAnyoneSuspicious1_2]]
+<<else>>
+Theodore Calvino: ...Now, if you'll excuse me... I'd like to listen back to the conversation at the table.
+<<endif>>
+[[All right, thanks.|IdleTheodoreCalvinoLeave]]
+===
+title: IdleTheodoreCalvinoAnyoneSuspicious1_2
+tags: 
+colorID: 0
+position: 320,680
+---
+Theodore Calvino: Christine is the loudest at the table... and perhaps at the whole party.
+Theodore Calvino: She clearly enjoys other people's company, though not their voices.
+Theodore Calvino: Christine might be... compensating for something.
+-> Compensating for what?
+    Theodore Calvino: ...I've heard operas aren't... selling so well these days.
+    Theodore Calvino: I'm not sure she can afford this lifestyle for much longer.
+<<if not visited("IdleTheodoreCalvinoAnyoneSuspicious1_1")>>
+[[And what about Adele?|IdleTheodoreCalvinoAnyoneSuspicious1_1]]
+<<else>>
+Theodore Calvino: ...Now, if you'll excuse me... I'd like to listen back to the conversation at the table.
+<<endif>>
+[[All right, thanks.|IdleTheodoreCalvinoLeave]]
+===

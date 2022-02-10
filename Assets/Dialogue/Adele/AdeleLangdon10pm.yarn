@@ -1,0 +1,22 @@
+title: AdeleLangdon10pmStart
+tags: 
+colorID: 0
+position: 175,-131
+---
+<<addEvidence DialogueRunner Nervous Muttering : You overheard Adele talking to herself, alone in the side of the room. When asked, she said she was feeling anxious. : true>>
+Adele Langdon: ...it'll be fine, fine...
+-> Are you talking to yourself?
+    Adele Langdon: Ah, yes. Don't we all do that, though?
+    -> Yeah, actually. Sorry to bother.
+        Adele Langdon: Oh, no trouble, no trouble at all...
+    -> Only when I'm stressed.
+        Adele Langdon: Fair enough. It's a common coping mechanism.
+        -> What are you stressed about?
+            Adele Langdon: Well, some big life decisions, you know how it is.
+            Adele Langdon: Change is scary. But it's usually more common than we think.
+    -> Not really.
+        Adele Langdon: Well, good for you.
+-> What will be fine?
+    Adele Langdon: Oh, just some big life decisions, you know how it is.
+    Adele Langdon: Change is scary. But it's usually more common than we think.
+===

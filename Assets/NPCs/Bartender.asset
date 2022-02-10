@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75e3b258e195eb7498236bca41965c62, type: 3}
+  m_Name: Bartender
+  m_EditorClassIdentifier: 
+  characterName: B. Tender
+  color: {r: 0.9176471, g: 0.882353, b: 0.8588236, a: 1}
+  overworldSprite: {fileID: 21300000, guid: 7036e5041b7029c4ea5a53dbfb7a8b20, type: 3}
+  dialoguePortrait: {fileID: 21300000, guid: 21eca833d1659a549b8b433e5ba3bb29, type: 3}
+  height: 1.5
+  locationSchedule:
+  - time:
+      clockTime: {x: 0, y: 0, z: 0}
+    room: 1
+    location: 5
+  dialogueSchedule:
+  - time:
+      clockTime: {x: 0, y: 0, z: 0}
+    dialogueScript: {fileID: 0}

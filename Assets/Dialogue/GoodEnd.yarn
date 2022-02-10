@@ -1,0 +1,47 @@
+title: GoodEnd
+tags: 
+colorID: 0
+position: 1115,641
+---
+Masked Thief: Hands in the air! Don’t move unless I tell you to!
+Christine Poirot: Aaaaaah!
+[[Not so fast!|GoodEnd2]]
+===
+title: GoodEnd2
+tags: 
+colorID: 0
+position: 1235,421
+---
+Masked Thief: Don’t try anything, Inspector. My people on the inside know all about you, and we’re not letting you get in our way. 
+[[Your people are in handcuffs. It's over.|GoodEnd3]]
+===
+title: GoodEnd3
+tags: 
+colorID: 0
+position: 1355,201
+---
+Masked Thief: What are you talking about? 
+->Bring her in.
+Adele Langdon: I can't believe this! Our plan was foolproof? How did you find us out?
+[[You were sloppy.|GoodEnd4]]
+[[Time was on my side.|GoodEnd4]]
+[[Dumb luck.|GoodEnd4]]
+===
+title: GoodEnd4
+tags: 
+colorID: 0
+position: 1473,-19
+---
+Adele Langdon: ... The End.
+Masked Thief: Thank you for playing our game!
+Jeremy Woodward: Thank you for playing our game!
+Theodore Calvino: Thank you for playing our game!
+Christine Poirot: Thank you for playing our game!
+Rian Marple: Thank you for playing our game!
+Fillip Dahl: Thank you for playing our game!
+Evalyn Hoscut: Thank you for playing our game!
+B. Tender: Thank you for playing our game!
+Dee Mahn: Thank you for playing our game!
+Paul Moss: Thank you for playing our game!
+Adele Langdon: Thank you for playing our game!
+===

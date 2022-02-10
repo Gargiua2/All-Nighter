@@ -1,0 +1,40 @@
+title: BadEnd3
+tags: 
+colorID: 0
+position: 1178,554
+---
+Masked Thief: Hands in the air! Don’t move unless I tell you to!
+[[Christine is about to scream.|BadEnd302]]
+===
+title: BadEnd302
+tags: 
+colorID: 0
+position: 1298,334
+---
+Christine Poirot: Aaaaaah!
+[[Yep|BadEnd303]]
+===
+title: BadEnd303
+tags: 
+colorID: 0
+position: 1418,114
+---
+Masked Thief: Don’t try anything , Inspector.
+[[You knew about me. And you have people on the inside.|BadEnd304]]
+===
+title: BadEnd304
+tags: 
+colorID: 0
+position: 1460,-140
+---
+<<bellsSFX DialogueRunner>>
+Masked Thief: A lucky guess! But there’s nothing you can do about it now. 
+[[There it is.|BadEnd305]]
+===
+title: BadEnd305
+tags: 
+colorID: 0
+position: 1580,-360
+---
+Masked Thief: Sit pretty and everything will…
+===

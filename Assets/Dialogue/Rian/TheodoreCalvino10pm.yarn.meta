@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: efb9a3e4cb626ab428f68043e71dd4b6
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - TheodoreCalvino10pm-TheodoreCalvino10pmStart-0
+  - TheodoreCalvino10pm-TheodoreCalvino10pmStart-1
+  - TheodoreCalvino10pm-TheodoreCalvino10pmStart-2
+  - TheodoreCalvino10pm-TheodoreCalvino10pmStart-3
+  - TheodoreCalvino10pm-TheodoreCalvino10pmStart-4
+  - TheodoreCalvino10pm-TheodoreCalvino10pmStart-5
+  - TheodoreCalvino10pm-TheodoreCalvino10pmStart-6
+  - TheodoreCalvino10pm-TheodoreCalvino10pmStart-7
+  - TheodoreCalvino10pm-TheodoreCalvino10pmStart-8
+  - TheodoreCalvino10pm-TheodoreCalvino10pmStart-9
+  - TheodoreCalvino10pm-TheodoreCalvino10pmStart-10
+  - TheodoreCalvino10pm-TheodoreCalvino10pmStart-11
+  - TheodoreCalvino10pm-TheodoreCalvino10pmStart-12
+  - TheodoreCalvino10pm-TheodoreCalvino10pmStart-13
+  - TheodoreCalvino10pm-TheodoreCalvino10pmStart-14
+  - TheodoreCalvino10pm-TheodoreCalvino10pmStart-15
+  - TheodoreCalvino10pm-TheodoreCalvino10pmStart-16
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: efb9a3e4cb626ab428f68043e71dd4b6, type: 3}
+  localizations: []

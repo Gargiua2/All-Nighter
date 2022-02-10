@@ -1,0 +1,31 @@
+title: FillipDahl7pmStart
+tags: 
+colorID: 0
+position: 400,-520
+---
+<<addEvidence DialogueRunner Marital Strife : You overheard Evalyn and Fillip arguing over... who knows? Something about poison? : false>>
+Fillip Dahl: ...when they brought me OUTDATED caviar! So that's why I did it.
+Evalyn Hoscut: I don't think that's any reason to close our bank accounts, Fillip!
+Evalyn Hoscut: Where's our money now? In the air?
+Fillip Dahl: It's all in gold. We're absolutely fine. 
+[[Sorry to interrupt, but do you have a moment to talk?|FillipDahl7pm1]]
+[[... I wonder what's happening... anywhere else but here.|FillipDahl7pmLeave]]
+===
+title: FillipDahl7pm1
+tags: 
+colorID: 0
+position: 520,-200
+---
+Fillip Dahl: ...
+Fillip Dahl: Can't you see we're busy here?
+Evalyn Hoscut: Indeed, we're much to busy for any other conversation!
+===
+title: FillipDahl7pmLeave
+tags: 
+colorID: 0
+position: 280,-200
+---
+Fillip Dahl: You'd eat outdated caviar?!
+Evalyn Hoscut: I see no reason to eat caviar at all while you're counting our money in our bank vault!
+Fillip Dahl: OUR bank vault??...
+===

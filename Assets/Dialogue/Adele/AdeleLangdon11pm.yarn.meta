@@ -1,0 +1,45 @@
+fileFormatVersion: 2
+guid: 417796d4e099f9e49ba37f461c66055e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - AdeleLangdon11pm-AdeleLangdon11pmStart-0
+  - AdeleLangdon11pm-AdeleLangdon11pmStart-1
+  - AdeleLangdon11pm-AdeleLangdon11pmStart-2
+  - AdeleLangdon11pm-AdeleLangdon11pmStart-3
+  - AdeleLangdon11pm-AdeleLangdon11pmStart-4
+  - AdeleLangdon11pm-AdeleLangdon11pm1-5
+  - AdeleLangdon11pm-AdeleLangdon11pm1-6
+  - AdeleLangdon11pm-AdeleLangdon11pm1-7
+  - AdeleLangdon11pm-AdeleLangdon11pm1-8
+  - AdeleLangdon11pm-AdeleLangdon11pm1-9
+  - AdeleLangdon11pm-AdeleLangdon11pm1-10
+  - AdeleLangdon11pm-AdeleLangdon11pm1-11
+  - AdeleLangdon11pm-AdeleLangdon11pm1-12
+  - AdeleLangdon11pm-AdeleLangdon11pm1-13
+  - AdeleLangdon11pm-AdeleLangdon11pm1-14
+  - AdeleLangdon11pm-AdeleLangdon11pm1-15
+  - AdeleLangdon11pm-AdeleLangdon11pm1-16
+  - AdeleLangdon11pm-AdeleLangdon11pm1-17
+  - AdeleLangdon11pm-AdeleLangdon11pm1-18
+  - AdeleLangdon11pm-AdeleLangdon11pm2-19
+  - AdeleLangdon11pm-AdeleLangdon11pm2-20
+  - AdeleLangdon11pm-AdeleLangdon11pm2-21
+  - AdeleLangdon11pm-AdeleLangdon11pm2-22
+  - AdeleLangdon11pm-AdeleLangdon11pm2-23
+  - AdeleLangdon11pm-AdeleLangdon11pm2-24
+  - AdeleLangdon11pm-AdeleLangdon11pm2-25
+  - AdeleLangdon11pm-AdeleLangdon11pm2-26
+  - AdeleLangdon11pm-AdeleLangdon11pmLeave-27
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 417796d4e099f9e49ba37f461c66055e, type: 3}
+  localizations: []

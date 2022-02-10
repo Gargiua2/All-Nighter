@@ -1,0 +1,54 @@
+title: AdeleLangdon11pmStart
+tags: 
+colorID: 0
+position: 1640,-1720
+---
+Adele Langdon: Oh... hello. 
+Adele Langdon: Care for a smoke?
+[[Sure, thanks.|AdeleLangdon11pm1]]
+[[No, you know those are bad for you, right?|AdeleLangdon11pm2]]
+[[Actually, I have to be somewhere else.|AdeleLangdon11pmLeave]]
+===
+title: AdeleLangdon11pm1
+tags: 
+colorID: 0
+position: 1440,-1460
+---
+<<addEvidence DialogueRunner Latenight Smoke Break: You encountered Adele lingering by the door, late in the evening. She offers you a smoke before stepping outside in a hurry. : true>>
+Adele Langdon: Sure thing. I only smoke the best, but I still have the lighter from when I was 16.
+Adele Langdon: I've come a long way, you know? 
+<<wait 2>>
+Adele Langdon: We all have. But sometimes it just isn't enough.
+-> What do you mean?
+    Adele Langdon: Oh, just... life in general. Life's happened.
+    -> When did you get all sentimental?
+        Adele Langdon: The drinks, the smokes...
+        Adele Langdon: For a lot of reasons.
+        Adele Langdon: Listen, I should probably step outside to smoke this. If you'll forgive... I mean, excuse me.
+-> Aren't you rich?
+    Adele Langdon: I guess you could say I am.
+    Adele Langdon: Though not rich in the common sense of the word.
+    -> What is THAT supposed to mean?
+        Adele Langdon: Listen, I should probably open the door to let out some smoke. If you'll forgive... I mean, excuse me.
+===
+title: AdeleLangdon11pm2
+tags: 
+colorID: 0
+position: 1660,-1460
+---
+Adele Langdon: Yes, but you only live once.
+Adele Langdon: At least, that's what I hear.
+-> I guess so.
+    Adele Langdon: Now, if you'll... forgive me, I should open the door to let out some of this smoke.
+-> That sounds ominous.
+    Adele Langdon: Everything's been ominious tonight, darling.
+    Adele Langdon: If you haven't seen it, you haven't looked close enough.
+    Adele Langdon: Now, if you'll forgive me... I mean, if you'll excuse me, I should really open the door to let out some of this smoke.
+===
+title: AdeleLangdon11pmLeave
+tags: 
+colorID: 0
+position: 1880,-1480
+---
+Adele Langdon: Suit yourself.
+===

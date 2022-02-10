@@ -1,0 +1,49 @@
+fileFormatVersion: 2
+guid: 5134124237e2fe24a951a892aadc3d05
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - EvalynHoscut9pm-EvalynHoscut9pmStart-0
+  - EvalynHoscut9pm-EvalynHoscut9pmStart-1
+  - EvalynHoscut9pm-EvalynHoscut9pmStart-2
+  - EvalynHoscut9pm-EvalynHoscut9pmStart-3
+  - EvalynHoscut9pm-EvalynHoscut9pmStart-4
+  - EvalynHoscut9pm-EvalynHoscut9pmStart-5
+  - EvalynHoscut9pm-EvalynHoscut9pmStart-6
+  - EvalynHoscut9pm-EvalynHoscut9pmStart-7
+  - EvalynHoscut9pm-EvalynHoscut9pmStart-8
+  - EvalynHoscut9pm-EvalynHoscut9pmStart-9
+  - EvalynHoscut9pm-EvalynHoscut9pmStart-10
+  - EvalynHoscut9pm-EvalynHoscut9pmStart-11
+  - EvalynHoscut9pm-EvalynHoscut9pmStart-12
+  - EvalynHoscut9pm-EvalynHoscut9pmStart-13
+  - EvalynHoscut9pm-EvalynHoscut9pmStart-14
+  - EvalynHoscut9pm-EvalynHoscut9pmStart-15
+  - EvalynHoscut9pm-EvalynHoscut9pmStart-16
+  - EvalynHoscut9pm-EvalynHoscut9pmStart-17
+  - EvalynHoscut9pm-EvalynHoscut9pmStart-18
+  - EvalynHoscut9pm-EvalynHoscut9pmStart-19
+  - EvalynHoscut9pm-EvalynHoscut9pmLeave-20
+  - EvalynHoscut9pm-EvalynHoscut9pm1-21
+  - EvalynHoscut9pm-EvalynHoscut9pm1-22
+  - EvalynHoscut9pm-EvalynHoscut9pm1-23
+  - EvalynHoscut9pm-EvalynHoscut9pm1-24
+  - EvalynHoscut9pm-EvalynHoscut9pm1-25
+  - EvalynHoscut9pm-EvalynHoscut9pm2-26
+  - EvalynHoscut9pm-EvalynHoscut9pm2-27
+  - EvalynHoscut9pm-EvalynHoscut9pm2-28
+  - EvalynHoscut9pm-EvalynHoscut9pm2-29
+  - EvalynHoscut9pm-EvalynHoscut9pm2-30
+  - EvalynHoscut9pm-EvalynHoscut9pm2-31
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 5134124237e2fe24a951a892aadc3d05, type: 3}
+  localizations: []
